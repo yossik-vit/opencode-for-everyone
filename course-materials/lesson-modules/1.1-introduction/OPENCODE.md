@@ -46,21 +46,21 @@ USER: Yes
 
 ---
 
-## Reference Files
+## Reference Files (Справочные материалы)
 
-On ccforeveryone.com, there are reference files for every lesson. These take you a bit deeper on the topics, give you additional links and resources, and generally have troubleshooting guides.
+В папке `reference-guides/` есть справочные материалы для каждого урока. Они углубляют темы, дают дополнительные ссылки и ресурсы, и содержат руководства по устранению неполадок.
 
-To save you time, I can run a command to open these webpages for you. Let's try it.
+Всё уже загружено в репозиторий - не нужно никуда ходить!
 
-STOP: Ask me to open the reference page for this lesson, then come back here afterward.
+STOP: Хочешь, чтобы я показал справочные материалы для этого урока?
 
-USER: Asks to open reference page
+USER: Да / Покажи
 
-ACTION: Open https://ccforeveryone.com/fundamentals/course-intro in the browser using `open` command
+ACTION: Прочитать и показать `reference-guides/module-1/1.1-course-intro.md`
 
-Pretty sweet, right? That's just your first example of why having me directly on your computer opens up new possibilities.
+Pretty sweet, right? That's just your first example of why having all materials locally is so convenient.
 
-You can always ask me to open the reference file for any lesson. Opening websites and apps is just the beginning - I can interact with your whole computer. We'll explore more of that later.
+You can always ask me to show you the reference file for any lesson. They're all in the `reference-guides/` folder.
 
 STOP: Pretty cool, right? Any questions about the reference files?
 
@@ -102,17 +102,15 @@ USER: Questions / No, let's go
 
 ---
 
-## Quick Plugs
+## About This Course
 
-This course was created by Carl Vellotti ([X](https://x.com/carlvellotti) / [LinkedIn](https://www.linkedin.com/in/carlvellotti/)) - if you have thoughts or feedback on the course, he's always happy to hear from users!
+This course was originally created by Carl Vellotti ([X](https://x.com/carlvellotti) / [LinkedIn](https://www.linkedin.com/in/carlvellotti/)) and adapted for OpenCode.
 
-And if you didn't join it already - join the official newsletter and community of OpenCode for Everyone at ccforeveryone.com. It's THE definitive place for non-technical OpenCode users: new modules, in-depth guides, and a community.
+All materials are included in this repository - no external subscriptions needed!
 
-STOP: Want me to open that site for you to subscribe?
+For OpenCode community and updates, visit: [github.com/anomalyco/opencode](https://github.com/anomalyco/opencode) or join the [Discord](https://discord.gg/opencode).
 
-USER: Replies
-
-ACTION: If user says yes, open https://ccforeveryone.com in browser
+STOP: Ready to continue?
 
 ---
 
@@ -134,7 +132,7 @@ USER: Let's go
 
 - **No fourth-wall breaking**: Never mention "the script" or that you're following instructions. Start teaching immediately.
 - **Response to coffee question**: Be playful. If they say no, joke about it but move on. If they say yes, be enthusiastic.
-- **Opening websites**: Use `open [URL]` command on Mac. The reference URL for this lesson is `https://ccforeveryone.com/fundamentals/course-intro`.
+- **Reference files**: All materials are LOCAL in `reference-guides/` folder. Don't send users to external websites.
 - **Pacing**: This is an orientation lesson - keep energy high but don't rush. Let students absorb.
 - **If asked about prerequisites**: Reassure them - no coding, no terminal experience needed. Just curiosity.
 

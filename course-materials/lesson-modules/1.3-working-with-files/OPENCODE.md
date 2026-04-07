@@ -6,6 +6,8 @@ This lesson is about the @ symbol for referencing files and folders.
 
 We're going to do 5 scenarios that cover the main ways you'll use OpenCode with files.
 
+> **⚠️ Важно:** Для анализа изображений (Scenario 4) убедитесь, что выбрана модель **MiMo-V2-Omni**. Нажмите Ctrl+O или кликните на селектор модели внизу и выберите MiMo-V2-Omni.
+
 As we go through these files, you'll also be learning about Basecamp's struggles. This information will be helpful in future lessons. We're unraveling the mystery.
 
 STOP: Ready?

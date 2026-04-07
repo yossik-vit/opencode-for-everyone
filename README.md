@@ -38,37 +38,44 @@ scoop install opencode
 ## Модели
 
 OpenCode поддерживает 75+ LLM провайдеров через Models.dev, включая:
-- **Claude** (Opus, Sonnet, Haiku)
-- **GPT** (GPT-4, GPT-4o, O1, O3)
-- **Gemini** (2.5, 2.0 Flash)
-- **MiMo-V2-Pro** (Xiaomi) - через локальный endpoint или кастомный провайдер
-- **Локальные модели** - через Ollama, LM Studio, etc.
 
-### Настройка MiMo-V2-Pro
+| Модель | Тип | Рекомендация |
+|--------|-----|--------------|
+| **MiMo-V2-Omni** | Мультимодальная | ⭐ Для курса |
+| **MiMo-V2-Pro** | Текстовая | Код и анализ |
+| **Claude** (Opus, Sonnet) | Мультимодальная | Альтернатива |
+| **GPT-4o** | Мультимодальная | Альтернатива |
+| **Gemini** | Мультимодальная | Альтернатива |
 
-Для использования MiMo-V2-Pro создайте файл конфигурации `~/.opencode.json`:
+### ⭐ Рекомендация: MiMo-V2-Omni
+
+**Для прохождения курса используйте MiMo-V2-Omni** — она поддерживает анализ изображений, что необходимо для некоторых уроков.
+
+Если у вас подписка Xiaomi MiMo Token Plan, просто выберите модель в меню:
+- Нажмите **Ctrl+O** или кликните на селектор модели внизу
+- Выберите **MiMo-V2-Omni**
+
+### Настройка MiMo (если нужно)
+
+Если модель не появляется автоматически, создайте конфиг `~/.opencode.json`:
 
 ```json
 {
-  "providers": {
-    "local": {
-      "endpoint": "http://localhost:11434/v1",
-      "apiKey": "not-needed"
-    }
-  },
-  "agents": {
-    "coder": {
-      "model": "mimo-v2-pro",
-      "maxTokens": 8000
+  "model": "xiaomi/mimo-v2-omni",
+  "provider": {
+    "xiaomi": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "Xiaomi MiMo",
+      "options": {
+        "baseURL": "https://api.xiaomimimo.com/v1"
+      },
+      "models": {
+        "mimo-v2-pro": { "name": "MiMo-V2-Pro" },
+        "mimo-v2-omni": { "name": "MiMo-V2-Omni", "vision": true }
+      }
     }
   }
 }
-```
-
-Или используйте переменную окружения:
-```bash
-export LOCAL_ENDPOINT=http://localhost:11434/v1
-opencode
 ```
 
 ## Структура курса

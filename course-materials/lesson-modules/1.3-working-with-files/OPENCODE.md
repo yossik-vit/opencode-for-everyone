@@ -80,27 +80,27 @@ USER: Yes
 
 ---
 
-## Scenario 4: Config → Customize
+## Scenario 4: Image → Analyze
 
-OpenCode позволяет настраивать себя под ваши задачи.
+I can also view images!
 
-У нас есть файл конфигурации: `.opencode.json` в домашней директории. Давай посмотрим как настроить OpenCode под наш проект.
+Here's our current loyalty program flyer: attachments/loyalty-flyer.jpg
 
-STOP: Попроси меня показать текущую конфигурацию OpenCode и объяснить что можно настроить.
+Let's see if I can find any improvements.
 
-USER: Покажи конфигурацию OpenCode
+CRITICAL: Use Ctrl+V to paste images, NOT Cmd+V on Mac!
 
-ACTION: Показать структуру ~/.opencode.json, объяснить:
-- providers: настройка провайдеров моделей
-- agents: настройка агентов (coder, task, title)
-- lsp: настройка языковых серверов
-- shell: настройка терминала
+STOP: Open the file `attachments/loyalty-flyer.jpg` in Cursor, copy the image, and then paste it here with Ctrl+V and ask me to review it.
 
-**Discovery:** OpenCode можно настроить под конкретные задачи - выбрать модель, настроить LSP для вашего языка, создать кастомные команды.
+USER: Pastes image and asks for review
 
-STOP: Это мощная фича - вы можете настроить разные модели для разных задач. Например, использовать быструю модель для простых задач и мощную для сложных. Понятно?
+ACTION: Analyze the image - note that it's generic, says "the Coffee Shop" instead of Basecamp Coffee, has no personality or brand identity, could be any chain's flyer.
 
-USER: Да
+**Discovery:** Generic offer. Nothing that says "Basecamp Coffee." Could be any chain. This is part of the problem - even our marketing materials have no personality.
+
+STOP: This is useful for all kinds of things - analyzing UIs, showing me bugs, asking me to use it for inspiration. And you can provide multiple images at once. Make sense?
+
+USER: Yes
 
 ---
 
@@ -145,14 +145,14 @@ USER: Yes
 1. **Single file → Extract:** Pull structured information from messy documents
 2. **Folder → Synthesize:** Find patterns across multiple files
 3. **Apply template:** Use one file to control the format of output
-4. **Config → Customize:** Настройка OpenCode под свои задачи
+4. **Image → Analyze:** Get insights from visual content
 5. **Web → Research:** Pull in external information on demand
 
 **Where else this applies:**
 - Meeting notes from the last quarter - extract every action item assigned to you
 - 50 customer support tickets - synthesize into themes for your product team
 - Your company has a specific format for proposals - use it as a template for any new proposal
-- Настройте разные модели для разных задач - быструю для простых, мощную для сложных
+- Screenshot a competitor's pricing page - get instant analysis of their positioning
 - Research best practices for anything: hiring, onboarding, presentation design, whatever you're working on
 
 **Next up:** In 1.4, you'll learn to move fast. Slash commands, keyboard shortcuts, think keywords, and a secret power mode that removes all the speed bumps. You're about to become a power user.
@@ -167,8 +167,8 @@ USER: Yes / /start-1-4
 
 - **File creation**: Actually create the output files (action-items.md, feedback-synthesis.md, leadership-update.md) in the organized/ folder
 - **Coffee personalities hint**: Make sure to highlight the "coffee personality" idea when extracting from the notes - this seeds the solution
+- **Image pasting**: Ctrl+V is critical on Mac - Cmd+V won't work. Emphasize this.
 - **Web search**: Use real web search capabilities to find actual best practices
-- **Config**: Show real ~/.opencode.json structure and options
 
 
 ## Особенности OpenCode
@@ -206,7 +206,7 @@ OpenCode поддерживает 75+ провайдеров через Models.d
 - [ ] Student extracted action items from messy notes into structured file
 - [ ] Student synthesized 4 months of feedback into themes
 - [ ] Student created a leadership update using a template
-- [ ] Student learned about OpenCode configuration
+- [ ] Student analyzed the loyalty flyer image
 - [ ] Student saw web research in action
 - [ ] Student noticed the "fine but forgettable" theme
 - [ ] Student heard about the "coffee personality" idea (seed for later)

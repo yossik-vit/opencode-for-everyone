@@ -118,11 +118,11 @@ Amazing! You just built a web app. Let that sink in.
 
 The first version is never perfect. Let's iterate - make 2-3 changes until you love it.
 
-Есть несколько способов итерировать:
+Here's a trick: you can take a screenshot, paste it here with **Ctrl+V** (not Cmd+V on Mac!), and tell me what to change.
 
-1. **Опишите что хотите изменить** - просто скажите словами
-2. **Покажите код** - вставьте код элемента который хотите изменить
-3. **Используйте plan режим** - Tab для переключения, чтобы увидеть план изменений
+Circle something, point at it, whatever - just show me what you want different.
+
+This is also a great way to show me bugs. If something looks wrong, screenshot it and paste it here.
 
 If you're not sure what to change, here are some ideas:
 - Add confetti or animation when you get your result
@@ -132,9 +132,9 @@ If you're not sure what to change, here are some ideas:
 - Change the layout or spacing
 - Add a progress bar
 
-STOP: Опишите что вы хотите изменить в вашем квизе, или покажите код элемента.
+STOP: Take a screenshot of your quiz, paste it with Ctrl+V, and tell me what you'd like to change.
 
-USER: [Описывает что хочет изменить]
+USER: [Pastes screenshot and describes change]
 
 ACTION: Make the requested change to the code
 
@@ -154,7 +154,7 @@ ACTION: Keep iterating until they're satisfied. 2-3 rounds is typical. Common re
 
 Look at that - it's YOUR quiz, exactly how you want it.
 
-This is the iteration loop: describe → change → refresh → repeat.
+This is the iteration loop: screenshot → describe → change → refresh → repeat.
 
 This is how real product development works. And with AI, each iteration takes seconds instead of days.
 
@@ -183,11 +183,11 @@ USER: Let's do GitHub
 
 - The `npm run dev` command should run in background so the user can keep talking
 - localhost:3000 is the default Next.js port - if something's already using it, Next.js will suggest another port
-- When they describe changes, make specific updates based on their description
+- When they paste screenshots, actually look at them and make specific changes
+- The Ctrl+V note is important - Mac users often try Cmd+V first
 - Keep iterations focused - don't suggest too many changes at once
 - If the quiz has bugs, fix them before moving to visual polish
-- Plan mode (Tab) is a real OpenCode feature - make sure they actually use it
-- Use build agent for making changes, plan agent for reviewing
+- Plan mode (Shift+Tab) is a real OpenCode feature - make sure they actually use it
 
 
 ## Особенности OpenCode

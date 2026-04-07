@@ -1,6 +1,10 @@
-# Claude Code for Product Managers - Documentation Website
+# OpenCode for Everyone - Documentation Website
 
-This is the Nextra-based documentation website for the Claude Code for Product Managers Course.
+This is the Nextra-based documentation website for the OpenCode for Everyone Course - an adaptation of Carl Vellotti's Claude Code course for OpenCode users.
+
+## About This Adaptation
+
+This repository is a fork of [carlvellotti/claude-code-everyone-course](https://github.com/carlvellotti/claude-code-everyone-course), adapted for OpenCode users. The course content has been modified to reference OpenCode instead of Claude Code, while maintaining the same learning structure and interactive approach.
 
 ## Development
 
@@ -30,7 +34,7 @@ npm run build
 
 1. Go to [vercel.com](https://vercel.com) and sign in
 2. Click "Add New Project"
-3. Import the GitHub repository: `carlvellotti/claude-code-pm-course`
+3. Import the GitHub repository: `yossik-vit/claude-code-everyone-course`
 4. Set the Root Directory to `website`
 5. Framework Preset: Next.js
 6. Build Command: `npm run build`
@@ -75,7 +79,7 @@ website/
 
 Content is automatically converted from the main course `lesson-modules/` directory. To update:
 
-1. Edit the REFERENCE_GUIDE.md files in `/lesson-modules/`
+1. Edit the OPENCODE.md files in `/lesson-modules/` (adapted from CLAUDE.md)
 2. Run the conversion script: `./convert-content.sh`
 3. Build and deploy
 
@@ -89,7 +93,12 @@ Content is automatically converted from the main course `lesson-modules/` direct
 ## Links
 
 - **Live Site:** TBD (will be deployed to Vercel)
-- **Course Repository:** https://github.com/carlvellotti/claude-code-pm-course
+- **Original Course Repository:** https://github.com/carlvellotti/claude-code-pm-course
+- **OpenCode Adaptation Repository:** https://github.com/yossik-vit/claude-code-everyone-course
 - **Nextra Docs:** https://nextra.site
 - **Pagefind Docs:** https://pagefind.app
 
+## Credits
+
+- Original course by [Carl Vellotti](https://www.linkedin.com/in/carlvellotti/)
+- OpenCode adaptation by [Yossik Vit](https://github.com/yossik-vit)

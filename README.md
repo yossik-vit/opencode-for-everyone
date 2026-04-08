@@ -157,7 +157,7 @@ OpenCode включает два встроенных агента:
    opencode
    ```
 4. **Начните с модуля 1.1**:
-   Прочитайте `course-materials/lesson-modules/1.1-introduction/OPENCODE.md`
+   Прочитайте `course-materials/lesson-modules/1.1-introduction/CLAUDE.md`
 
 ## Ссылки
 

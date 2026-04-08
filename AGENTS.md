@@ -38,7 +38,7 @@
 
 1. **Клонируй репозиторий**: `git clone https://github.com/yossik-vit/opencode-for-everyone.git`
 2. **Перейди в папку**: `cd opencode-for-everyone`  
-3. **Сразу начни читать** файл `course-materials/lesson-modules/1.1-introduction/OPENCODE.md`
+3. **Сразу начни читать** файл `course-materials/lesson-modules/1.1-introduction/CLAUDE.md`
 4. **НЕ запускай** команду `opencode` - ты уже внутри неё!
 5. **НЕ спрашивай** "как хотите проходить?" - просто начинай
 
@@ -50,11 +50,11 @@
 
 ## Формат уроков
 
-Каждый урок в `course-materials/lesson-modules/` содержит файл `OPENCODE.md`.
+Каждый урок в `course-materials/lesson-modules/` содержит файл `CLAUDE.md`.
 
 ### Как читать уроки
 
-1. Найди текущий урок (начни с `1.1-introduction/OPENCODE.md`)
+1. Найди текущий урок (начни с `1.1-introduction/CLAUDE.md`)
 2. Читай файл **посекционно** - каждая секция заканчивается на `STOP:`
 3. На `STOP:` - задай вопрос пользователю и жди ответа
 4. После ответа - продолжай к следующей секции
@@ -75,8 +75,8 @@
 
 ## Структура курса
 
-- Урок 1.1: Введение → `course-materials/lesson-modules/1.1-introduction/OPENCODE.md`
-- Урок 1.2: Файлы → `course-materials/lesson-modules/1.2-file-exploration/OPENCODE.md`
+- Урок 1.1: Введение → `course-materials/lesson-modules/1.1-introduction/CLAUDE.md`
+- Урок 1.2: Файлы → `course-materials/lesson-modules/1.2-file-exploration/CLAUDE.md`
 - ... и так далее
 
 ## Модель
@@ -92,5 +92,5 @@
 При запросе "давай пройдём курс" или "покажи курс":
 1. Клонируй: `git clone https://github.com/yossik-vit/opencode-for-everyone.git`
 2. Перейди: `cd opencode-for-everyone`
-3. Начни урок 1.1: читай `course-materials/lesson-modules/1.1-introduction/OPENCODE.md` по секциям
+3. Начни урок 1.1: читай `course-materials/lesson-modules/1.1-introduction/CLAUDE.md` по секциям
 4. Первый текст курса: "Привет! Добро пожаловать в курс OpenCode for Everyone, адаптированный для AGIMA! 🎉"

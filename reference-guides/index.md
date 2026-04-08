@@ -1,28 +1,28 @@
 # OpenCode для всех - Справочник
 
-Добро пожаловать в адаптированный справочник курса "Claude Code for Everyone" для **OpenCode**.
+Адаптированный справочник курса "Claude Code for Everyone" для **OpenCode**.
 
 ## Что такое OpenCode?
 
-[OpenCode](https://opencode.ai) - это open source AI агент для разработки с 139K+ звёзд на GitHub. 
+[OpenCode](https://opencode.ai) — AI-агент для разработки. 139K+ звёзд на GitHub.
 
 ### Ключевые особенности:
-- **100% open source** - полностью открытый код под MIT лицензией
-- **Provider-agnostic** - 75+ провайдеров через Models.dev
-- **Десктопное приложение** - macOS, Windows, Linux (бета)
-- **TUI** - продвинутый терминальный интерфейс
-- **Поддержка LSP** - автоматическая загрузка языковых серверов
-- **Мульти-сессии** - параллельная работа
-- **Share links** - публикация сессий
+- **100% open source** — MIT лицензия
+- **75+ провайдеров** через Models.dev
+- **Десктопное приложение** — macOS, Windows, Linux (бета)
+- **TUI** — продвинутый терминальный интерфейс
+- **LSP** — автоматическая загрузка языковых серверов
+- **Мульти-сессии** — параллельная работа
+- **Share links** — публикация сессий
 
 ## Модели
 
-OpenCode поддерживает 75+ моделей, включая:
+OpenCode поддерживает 75+ моделей:
 - **Claude** (Opus, Sonnet, Haiku)
 - **GPT** (GPT-4, GPT-4o, O1, O3)
 - **Gemini** (2.5, 2.0 Flash)
-- **MiMo-V2-Pro** (Xiaomi) - через локальный endpoint
-- **Локальные модели** - Ollama, LM Studio
+- **MiMo-V2-Pro** (Xiaomi) — через локальный endpoint
+- **Локальные модели** — Ollama, LM Studio
 
 ## Установка
 

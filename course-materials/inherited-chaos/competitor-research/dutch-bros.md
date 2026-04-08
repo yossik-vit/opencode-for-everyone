@@ -1,60 +1,60 @@
-# Competitor Research: Dutch Bros
+# Исследование конкурента: Dutch Bros
 
-## Program Overview
-**Name:** Dutch Rewards
-**Approach:** Relationship-first, rewards second
-**Vibe:** High-energy, personal connection
+## Обзор программы
+**Название:** Dutch Rewards
+**Подход:** Отношения на первом месте, награды на втором
+**Вайб:** Высокая энергия, личное соединение
 
-## How It Works
-- Points per purchase
-- Free drink rewards
-- Birthday drinks
-- But honestly, the rewards aren't the point...
+## Как это работает
+- Баллы за покупку
+- Бесплатные напитки как награды
+- Напитки на день рождения
+- Но честно говоря, награды не являются точкой...
 
-## What They Do Well
+## Что у них хорошо
 
-### 1. The "Broista" Connection
-- Staff trained to remember names
-- Genuine conversations at the window
-- High-energy, positive interactions
-- They make you feel SEEN
+### 1. Связь "Броиста"
+- Сотрудников обучают помнить имена
+- Искренние разговоры в окне
+- Высокая энергия, позитивные взаимодействия
+- Они делают вас ЧУВСТВОВАТЬСЯ
 
-### 2. Sticker Culture
-- Customers collect Dutch Bros stickers
-- Creates identity and belonging
-- Free marketing (stickers on laptops, water bottles)
-- Community signifier
+### 2. Культура стикеров
+- Клиенты собирают стикеры Dutch Bros
+- Создаёт идентичность и принадлежность
+- Бесплатный маркетинг (стикеры на ноутбуках, бутылках с водой)
+- Индикатор общности
 
-### 3. Secret Menu
-- Insider knowledge creates belonging
-- Customers share discoveries with friends
-- Makes you feel like part of a club
+### 3. Секретное меню
+- Знание секретного меню создаёт принадлежность
+- Клиенты делятся открытиями с друзьями
+- Делает вас чувствовать себя частью клуба
 
-### 4. Community Focus
-- Heavy local event presence
-- "Dutch Luv" charity days
-- Local sponsorships
-- Staff become local celebrities
+### 4. Фокус на общности
+- Сильное присутствие на местных событиях
+- Дни благотворительности "Dutch Luv"
+- Местные спонсорства
+- Сотрудники становятся местными знаменитостями
 
-## Their Weaknesses
-- Drive-thru only limits experience
-- Rewards program itself is basic
-- Not for the "serious coffee" crowd
-- Can feel too intense for some
+## Их недостатки
+- Только по пути (drive-thru) ограничивает опыт
+- Программа наград сама по себе базовая
+- Не для "серьёзных кофейных" любителей
+- Может ощущаться слишком интенсивным для некоторых
 
-## What We Can Learn
-- Personal connection beats points
-- Create identity markers (their stickers, our...?)
-- Insider knowledge creates belonging
-- Community involvement matters
-- Energy and enthusiasm are contagious
+## Чему мы можем научиться
+- Личное соединение побеждает баллы
+- Создавайте маркеры идентичности (их стикеры, наши...?)
+- Знание инсайдов создаёт принадлежность
+- Участие в общности важно
+- Энергия и энтузиазм заразительны
 
-## Key Insight
-Dutch Bros doesn't win on rewards - they win on RELATIONSHIP. Their baristas remember you. Their stickers let you show you belong. The coffee is almost secondary to the experience.
+## Ключевая инсайдерность
+Dutch Bros не выигрывает на наградах — они выигрывают на ОТНОШЕНИЯХ. Их бариста помнят вас. Их стикеры позволяют вам показать, что вы принадлежите. Кофе почти вторичен по отношению к опыту.
 
-Quote from their training: "We're not in the coffee business serving people. We're in the people business serving coffee."
+Цитата из их обучения: "Мы не в бизнесе кофе, обслуживая людей. Мы в бизнесе людей, обслуживающих кофе."
 
-## The Big Takeaway
-You can build loyalty without a sophisticated rewards program if you nail the human connection. Dutch Bros proves that belonging and identity matter more than points.
+## Главный вывод
+Вы можете построить лояльность без сложной программы наград, если вы поймали человеческое соединение. Dutch Bros доказывает, что принадлежность и идентичность важнее баллов.
 
-What's our version of "the sticker"? What makes someone proudly say "I'm a Basecamp person"?
+Какой у нас вариант "стикера"? Что делает кого-то гордо говорить: "Я человек Basecamp"?

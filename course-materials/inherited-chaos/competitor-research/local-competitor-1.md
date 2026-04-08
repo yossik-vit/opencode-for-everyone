@@ -1,39 +1,39 @@
-# Competitor Research: Evergreen Coffee Co.
+# Исследование конкурента: Evergreen Coffee Co.
 
-## Overview
-**Type:** Local Portland chain (8 locations)
-**Positioning:** Eco-focused, sustainability-first
-**Our Overlap:** Same neighborhoods, similar price point
+## Обзор
+**Тип:** Местная цепь в Portland (8 точек)
+**Позиционирование:** Ориентирован на экологичность, экологичность на первом месте
+**Наше пересечение:** Одинаковые районы, схожая цена
 
-## Their Loyalty Program
-**Name:** Green Bean Rewards
-**Approach:** Sustainability-tied rewards
+## Их программа лояльности
+**Название:** Green Bean Rewards
+**Подход:** Награды, связанные с устойчивым развитием
 
-### How It Works
-- Bring your own cup = bonus points
-- Bike/walk to store = bonus points
-- Rewards include tree plantings
-- "Carbon neutral coffee" option
+### Как это работает
+- Принеси свою кружку = бонусные баллы
+- Поездка в магазин на велосипеде/пешком = бонусные баллы
+- Награды включают посадку деревьев
+- Вариант "углеродно-нейтральный кофе"
 
-### What They Do Well
-1. **Clear Identity** - Everything ties to sustainability
-2. **Values Alignment** - Attracts their target customer
-3. **Social Good** - Rewards that feel meaningful
-4. **Differentiation** - Can't confuse them with anyone else
+### Что у них хорошо
+1. **Чёткая идентичность** — всё связано с устойчивым развитием
+2. **Выравнивание ценностей** — привлекает целевого клиента
+3. **Социальная польза** — награды, которые ощущаются значимыми
+4. **Дифференциация** — нельзя перепутать ни с кем
 
-### Their Weaknesses
-- Alienates non-eco customers
-- Can feel preachy
-- Limited reward options
-- Niche positioning limits growth
+### Их недостатки
+- Отчуждает не-экологических клиентов
+- Может ощущаться как наставничество
+- Ограниченные варианты наград
+- Узкое позиционирование ограничивает рост
 
-## What We Can Learn
-- Having a POINT OF VIEW matters
-- Rewards can align with values, not just transactions
-- Identity attracts identity (their customers WANT to be "green coffee people")
-- But being too narrow limits you
+## Чему мы можем научиться
+- Наличие ТОЧКИ ЗРЕНИЯ имеет значение
+- Награды могут выравниваться с ценностями, а не только с транзакциями
+- Идентичность привлекает идентичность (их клиенты ХОЧУТ быть "зелёными кофейными людьми")
+- Но быть слишком узким ограничивает вас
 
-## The Big Question
-What's OUR point of view? "Community" is nice but vague. Evergreen owns "sustainable." Starbucks owns "convenient." Dutch Bros owns "fun."
+## Главный вопрос
+Какова НАША точка зрения? "Сообщество" — хорошо, но размыто. Evergreen владеет "устойчивым". Starbucks владеет "удобством". Dutch Bros владеет "весельем".
 
-What do we own?
+Что мы владеем?

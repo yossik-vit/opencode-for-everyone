@@ -1,45 +1,45 @@
-# Leadership Update Template
+# Шаблон обновления для руководства
 
-Use this format for all updates to the leadership team.
-
----
-
-## [Topic/Project Name]
-**Date:** [Date]
-**From:** [Your Name]
-
-### Status
-[One line: On Track / At Risk / Blocked]
-
-### Summary
-[2-3 sentences max. What do they need to know?]
-
-### Key Metrics
-| Metric | Current | Target | Trend |
-|--------|---------|--------|-------|
-| [Metric 1] | [Value] | [Value] | [Up/Down/Flat] |
-| [Metric 2] | [Value] | [Value] | [Up/Down/Flat] |
-
-### Progress Since Last Update
-- [Bullet point accomplishment]
-- [Bullet point accomplishment]
-- [Bullet point accomplishment]
-
-### Blockers / Risks
-- [Issue and what you need to resolve it]
-- [Or "None" if things are smooth]
-
-### Next Steps
-- [What you're doing next]
-- [Timeline if relevant]
-
-### Decision Needed (if any)
-[Clear ask with options if applicable]
+Используйте этот формат для всех обновлений команды руководства.
 
 ---
 
-**Tips for using this template:**
-- Keep it scannable - they have 2 minutes
-- Lead with the most important information
-- Be specific about asks
-- No surprises - flag risks early
+## [Тема/Название проекта]
+**Дата:** [Дата]
+**От:** [Ваше имя]
+
+### Статус
+[Одна строка: По плану / Под угрозой / Заблокировано]
+
+### Краткое описание
+[2-3 предложения макс. Что им нужно знать?]
+
+### Ключевые метрики
+| Метрика | Сейчас | Цель | Тренд |
+|---------|---------|------|-------|
+| [Метрика 1] | [Значение] | [Значение] | [Рост/Падение/Стабильно] |
+| [Метрика 2] | [Значение] | [Значение] | [Рост/Падение/Стабильно] |
+
+### Прогресс с последнего обновления
+- [Достижение]
+- [Достижение]
+- [Достижение]
+
+### Блокеры / Риски
+- [Проблема и что нужно для решения]
+- [Или "Нет", если всё гладко]
+
+### Следующие шаги
+- [Что вы делаете дальше]
+- [Сроки, если актуально]
+
+### Решение необходимо (если есть)
+[Чёткий запрос с вариантами, если применимо]
+
+---
+
+**Советы по использованию шаблона:**
+- Держите сканируемым — у них 2 минуты
+- Начинайте с самого важного
+- Будьте конкретны по запросам
+- Без сюрпризов — поднимайте риски рано

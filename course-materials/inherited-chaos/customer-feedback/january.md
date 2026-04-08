@@ -1,52 +1,52 @@
-# Customer Feedback - January
+# Обратная связь от клиентов — январь
 
-## Survey Responses (47 responses)
+## Результаты опроса (47 ответов)
 
-### "How satisfied are you with Basecamp Rewards?"
-- Very Satisfied: 12%
-- Satisfied: 34%
-- Neutral: 41%
-- Dissatisfied: 9%
-- Very Dissatisfied: 4%
+### "Как вы довольны программой лояльности Basecamp Rewards?"
+- Очень доволен: 12%
+- Доволен: 34%
+- Нейтрально: 41%
+- Недоволен: 9%
+- Очень недоволен: 4%
 
-### Open-Ended Feedback
+### Открытый обратная связь
 
-**Positive:**
-> "I like getting free drinks eventually"
+**Положительная:**
+> "Наконец-то получил бесплатный напиток"
 
-> "The app works fine"
+> "Приложение работает нормально"
 
-> "Nice that you have a loyalty program"
+> "Нормально, что у вас есть программа лояльности"
 
-**Neutral:**
-> "It's fine I guess. I forget about it mostly."
+**Нейтральная:**
+> "Нормально, я полагаюсь. О ней в основном забываю."
 
-> "I signed up but I'm not sure what the point is"
+> "Я зарегистрировался, но не уверен, в чём суть"
 
-> "Same as every other coffee place"
+> "Как и в любом другом месте с кофе"
 
-> "Don't really think about it"
+> "Действительно не думаю об этом"
 
-**Negative:**
-> "Takes forever to earn a free drink"
+**Отрицательная:**
+> "Узнать бесплатный напиток уходит вечность"
 
-> "I don't understand the tiers"
+> "Я не понимаю уровни"
 
-> "The app is kind of confusing"
+> "Приложение немного запутанное"
 
-> "Why do I need another app on my phone?"
+> "Зачем мне ещё одно приложение на телефоне?"
 
-### In-Store Comments (from barista reports)
+### Комментарии в магазине (от отчётов бариста)
 
-- Customer asked "what's the point of the tiers?" - barista couldn't really explain
-- Several customers didn't know they had the app installed
-- One regular said "I come here for the coffee, not the points"
-- Customer complained about too many emails
+- Клиент спросил "какой смысл уровней?" — бариста не мог нормально объяснить
+- Несколько клиентов не знали, что у них установлено приложение
+- Один постоянный клиент сказал: "Я сюда за кофе, не за баллы"
+- Клиент пожаловался на слишком много писем
 
-### Social Media Mentions
-- 3 Instagram tags (all just photos of drinks, no mention of rewards)
-- 0 Twitter mentions
-- 1 Facebook review mentioning "they have a loyalty program but I never use it"
+### Упоминания в социальных сетях
+- 3 тега в Instagram (все просто фотографии напитков, без упоминания наград)
+- 0 упоминаний в Twitter
+- 1 отзыв в Facebook: "у них есть программа лояльности, но я никогда не использую"
 
-## Summary
-Engagement is low. People don't hate the program - they just don't think about it. The word "fine" came up 7 times in feedback. That's probably not good.
+## Итог
+Вовлечённость низкая. Люди не ненавидят программу — они просто не думают о ней. Слово "нормально" появилось 7 раз в обратной связи. Это, наверное, не хорошо.

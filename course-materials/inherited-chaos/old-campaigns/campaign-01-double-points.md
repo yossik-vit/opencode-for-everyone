@@ -1,29 +1,29 @@
-# Campaign: Double Points Weekend
+# Кампания: Выходные с удвоенными баллами
 
-**Status:** Ran twice, mixed results
-**Last Run:** February
+**Статус:** Проведена дважды, смешанные результаты
+**Последний запуск:** Февраль
 
-## Concept
-Double points on all purchases during a weekend promotion.
+## Концепция
+Удвоенные баллы за все покупки в выходные промо.
 
-## Details
-- Friday 6am - Sunday 9pm
-- All purchases earn 2x points
-- Promoted via email, push, in-store signage
+## Детали
+- Пятница 6 утра — воскресенье 21:00
+- Все покупки приносят 2x баллов
+- Рекламируется через email, push, внутримагазинную вывеску
 
-## Results
-- 23% increase in app scans during promo
-- Returned to baseline within 3 days
-- Cost: ~$2,400 in accelerated rewards liability
-- No measurable impact on 30-day retention
+## Результаты
+- 23% увеличение сканирований приложения во время промо
+- Вернулось к базовому уровню в течение 3 дней
+- Стоимость: ~$2,400 в ускоренной ответственности за награды
+- Нет измеримого влияния на лояльность 30 дней
 
-## What Happened
-People came when there was a deal, then went back to normal. We basically paid more for the same behavior.
+## Что произошло
+Люди приходили, когда была сделка, потом возвращались к норме. Мы по сути платили больше за то же поведение.
 
-## Assessment
-Not worth repeating. This is the "discount treadmill" - you have to keep running promotions to maintain baseline activity. Doesn't build real loyalty.
+## Оценка
+Не стоит повторять. Это "экран дисконта" — вам нужно постоянно запускать промо, чтобы поддерживать базовую активность. Не создаёт реальной лояльности.
 
-## Notes
-- Maybe pair with something else?
-- Or make it more exclusive (Summit members only?)
-- Problem: doesn't address WHY people don't engage
+## Заметки
+- Может сочетать с чем-то ещё?
+- Или сделать более эксклюзивным (только участники Summit?)
+- Проблема: не адресует ПОЧЕМУ люди не вовлечены

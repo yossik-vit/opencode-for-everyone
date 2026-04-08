@@ -1,29 +1,29 @@
-# Campaign: Happy Hour Points Boost
+# Кампания: Happy Hour Points Boost
 
-**Status:** Ran once, abandoned
-**Last Run:** March
+**Статус:** Проведена один раз, брошена
+**Последний запуск:** Март
 
-## Concept
-3x points during slow afternoon hours (2-5pm) to drive traffic.
+## Концепция
+3x баллов во время медленных часах после обеда (14:00-17:00), чтобы привлечь трафик.
 
-## Details
-- Monday-Thursday, 2-5pm
-- 3x points on all purchases
-- Promoted via push notifications at 1:30pm
+## Детали
+- Понедельник-четверг, 14:00-17:00
+- 3x баллов за все покупки
+- Рекламируется через push-уведомления в 13:30
 
-## Results
-- 8% increase in afternoon traffic during promo week
-- 34% of push notifications were immediately dismissed
-- Some customers complained about notification timing
-- No sustained behavior change after promo ended
+## Результаты
+- 8% увеличение трафика в послеобеденные часы во время промо-недели
+- 34% push-уведомлений сразу были закрыты
+- Несколько клиентов пожаловались на время уведомлений
+- Нет устойчивого изменения поведения после окончания промо
 
-## What Happened
-The notifications felt spammy. The 8% lift wasn't worth the customer annoyance. One customer replied to our email: "Stop texting me to buy coffee."
+## Что произошло
+Уведомления ощущались как спам. 8% подъёма не стоили раздражения клиентов. Один клиент ответил на наше email: "Перестань писать мне, чтобы я купил кофе".
 
-## Assessment
-The timing gimmick doesn't address the core problem. People aren't avoiding afternoons because of points - they're just not thinking about us at all.
+## Оценка
+Эта временная уловка не решает проблему в корне. Люди не избегают послеобеденных часов из-за баллов — они просто не думают о нас вообще.
 
-## Notes
-- Maybe useful for specific locations with afternoon slumps?
-- Need better notification strategy in general
-- This is a band-aid, not a solution
+## Заметки
+- Может быть полезно для конкретных точек с послеобеденными спадами?
+- Нужна лучшая стратегия уведомлений в целом
+- Это пластырь, а не решение

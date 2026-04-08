@@ -1,33 +1,33 @@
-# Campaign: Visit Streak Bonus
+# Кампания: Бонус за серию визитов
 
-**Status:** Draft, never launched
-**Created:** March
+**Статус:** Черновик, никогда не запускалась
+**Создана:** Март
 
-## Concept
-Bonus points for consecutive-day visit streaks to build habits.
+## Концепция
+Бонусные баллы за серии последовательных визитов для создания привычек.
 
-## Details
-- Visit 3 days in a row: 25 bonus points
-- Visit 5 days in a row: 75 bonus points
-- Visit 7 days in a row: 150 bonus points + "Streak Champion" badge
+## Детали
+- Посети 3 дня подряд: 25 бонусных баллов
+- Посети 5 дней подряд: 75 бонусных баллов
+- Посети 7 дней подряд: 150 бонусных баллов + значок "Чемпион серии"
 
-## Why It Never Launched
-- Worried about gaming (people buying $1 items just for streak)
-- Technical implementation was complex
-- Wasn't sure the target audience exists (who comes 7 days in a row?)
-- Felt like we were copying Duolingo without the fun
+## Почему не запустилась
+- Боялись накрутки (люди покупают товары за $1 только для серии)
+- Техническая реализация была сложной
+- Не были уверены, что целевая аудитория существует (кто приходит 7 дней подряд?)
+- Казалось, что мы копируем Duolingo без веселья
 
-## Assessment
-Streaks work for learning apps because there's inherent value in the activity. Nobody NEEDS to come to a coffee shop 7 days in a row. This would just gamify an unnatural behavior.
+## Оценка
+Серии работают для обучающих приложений, потому что в деятельности есть внутренняя ценность. Никто НЕ НУЖДАЕТСЯ приходить в кофейню 7 дней подряд. Это просто геймифицирует неестественное поведение.
 
-## Notes
-- Duolingo streaks work because learning every day is good
-- Coffee 7 days in a row isn't necessarily good (or affordable)
-- We're trying to create artificial engagement instead of real value
-- What if instead of streaks, we helped people discover new things to try?
-- Variety > frequency?
+## Заметки
+- Серии Duolingo работают, потому что учиться каждый день — это хорошо
+- Кофе 7 дней подряд — не обязательно хорошо (или доступно)
+- Мы пытаемся создать искусственное вовлечение вместо реальной ценности
+- Что если вместо серий мы помогли бы людям открывать новые вещи для проб?
+- Разнообразие > частота?
 
-## Parting Thought
-All of these campaigns are about getting people to DO MORE TRANSACTIONS. None of them are about making people FEEL SOMETHING. Maybe that's the problem.
+## Заключительная мысль
+Все эти кампании направлены на то, чтобы заставить людей ДЕЛАТЬ БОЛЬШЕ ТРАНЗАКЦИЙ. Ни одна из них не направлена на то, чтобы заставить людей ЧУВСТВОВАТЬ что-то. Может быть, в этом проблема.
 
-What if we stopped asking "how do we get more visits?" and started asking "how do we make people feel like this is THEIR place?"
+Что если бы мы перестали спрашивать "как нам получить больше визитов?" и начали спрашивать "как нам сделать так, чтобы люди чувствовали, что это ИХ место?"

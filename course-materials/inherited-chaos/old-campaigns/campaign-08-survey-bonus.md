@@ -1,30 +1,30 @@
-# Campaign: Survey Completion Bonus
+# Кампания: Бонус за прохождение опроса
 
-**Status:** Ran twice
-**Last Run:** April
+**Статус:** Проведена дважды
+**Последний запуск:** Апрель
 
-## Concept
-Bonus points for completing customer satisfaction surveys.
+## Концепция
+Бонусные баллы за прохождение опросов удовлетворённости клиентов.
 
-## Details
-- 15 bonus points for completing survey
-- 3-minute survey about program satisfaction
-- Emailed to random sample of members monthly
+## Детали
+- 15 бонусных баллов за прохождение опроса
+- 3-минутный опрос об удовлетворённости программой
+- Отправляется случайной выборке участников ежемесячно
 
-## Results
-- 23% completion rate (okay for surveys)
-- Got useful feedback (see customer-feedback folder)
-- Most common feedback: "it's fine"
-- Cost: minimal
+## Результаты
+- 23% коэффициент завершения (нормально для опросов)
+- Получили полезную обратную связь (см. папку customer-feedback)
+- Самый частый ответ: "нормально"
+- Стоимость: минимальная
 
-## What Happened
-People gave feedback, which was valuable. But the feedback keeps telling us the same thing: the program is forgettable. We're paying people to tell us we're boring.
+## Что произошло
+Люди дали обратную связь, что было ценно. Но обратная связь продолжает говорить одно и то же: программа забываемая. Мы платим людям за то, что они говорят нам, что мы скучные.
 
-## Assessment
-Surveys are useful for learning but don't drive engagement. And we keep learning the same thing. At some point we need to stop asking "what's wrong?" and start fixing it.
+## Оценка
+Опросы полезны для обучения, но не стимулируют вовлечённость. И мы продолжаем учить одно и то же. В какой-то момент нужно перестать спрашивать "что не так?" и начать исправлять.
 
-## Notes
-- One survey response stuck with me:
-  "What if you helped people discover their coffee personality instead of just tracking points?"
-- Another: "I'd engage more if it felt like Basecamp, not like generic corporate rewards"
-- The answers are in the feedback, we're just not acting on them
+## Заметки
+- Один ответ на опрос зацепил меня:
+  "А что если бы вы помогли людям узнать свою кофейную личность вместо того, чтобы просто отслеживать баллы?"
+- Другой: "Я бы вовлекался больше, если бы это ощущалось как Basecamp, а не как обычные корпоративные награды"
+- Ответы уже есть в обратной связи, мы просто не действуем по ним

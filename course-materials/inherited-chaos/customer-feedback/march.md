@@ -1,59 +1,62 @@
-# Customer Feedback - March
+# Обратная связь от клиентов — март
 
-## Survey Responses (38 responses)
+## Результаты опроса (38 ответов)
 
-### "How satisfied are you with Basecamp Rewards?"
-- Very Satisfied: 8%
-- Satisfied: 29%
-- Neutral: 47%
-- Dissatisfied: 13%
-- Very Dissatisfied: 3%
+### "Как вы довольны программой лояльности Basecamp Rewards?"
+- Очень доволен: 8%
+- Доволен: 29%
+- Нейтрально: 47%
+- Недоволен: 13%
+- Очень недоволен: 3%
 
-### Open-Ended Feedback
+### Открытый обратная связь
 
-**Positive:**
-> "I like Basecamp in general"
+**Положительная:**
+> "Мне в принципе нравится Basecamp"
 
-> "The baristas are always nice about reminding me to scan"
+> "Бариста всегда хорошие, когда напоминают мне отсканировать"
 
-**Neutral:**
-> "Honestly forgot I was a member until you emailed me this survey"
+**Нейтральная:**
+> "Честно забыл, что я участник, пока вы не прислали мне этот опрос"
 
-> "It's there. I use it sometimes."
+> "Она есть. Иногда использую."
 
-> "Same as everywhere else"
+> "Как и везде"
 
-> "Meh"
+> "Мдэ"
 
-> "Fine but doesn't make me come more often"
+> "Нормально, но не заставляет приходить чаще"
 
-**Negative:**
-> "I've been coming here for a year and I'm still a Trailblazer. What does that even mean?"
+**Отрицательная:**
+> "Я сюда уже год, а я всё ещё Trailblazer. Что это вообще значит?"
 
-> "The emails feel generic"
+> "Письма ощущаются как везде"
 
-> "Nothing makes me feel special as a member"
+> "Ничего не делает меня особенным как участник"
 
-> "Why should I care about points?"
+> "Зачем мне беспокоиться о баллах?"
 
-> "I go to Starbucks when I want rewards, here when I want good coffee"
+> "Я иду в Starbucks, когда хочу награды, сюда — когда хочу хороший кофе"
 
-### In-Store Comments (from barista reports)
+### Комментарии в магазине (от отчётов бариста)
 
-- A regular customer said: "You know what I wish? That you could help me find new drinks to try. I always get the same thing."
-- Another customer: "The program doesn't feel like Basecamp. It feels like corporate stuff."
-- Barista at Mill Creek: "People seem more excited about our seasonal drinks than the rewards program"
-- Customer asked: "Is there any reason to hit the higher tiers?"
+- Постоянный клиент сказал: "Знаешь что я хотел бы? Чтобы вы помогли мне найти новые напитки для проб. Я всегда одно и то же."
 
-### App Usage Stats This Month
-- 847 app opens
-- Average session time: 23 seconds
-- Most common action: checking point balance
-- 12 rewards redeemed
+- Другой клиент: "Программа не ощущается как Basecamp. Ощущается как корпоративная штука."
 
-### Social Media Mentions
-- 0 organic mentions of Basecamp Rewards
-- Our promo post got 3 likes
+- Бариста в Mill Creek: "Люди, кажется, больше радуются нашим сезонным напиткам, чем программе наград"
 
-## Summary
-Satisfaction trending slightly down. The "it's fine" sentiment continues. Notable feedback: people feel the program doesn't match Basecamp's personality. One comment stuck with me: "I go to Starbucks for rewards, here for good coffee." That's... not great.
+- Клиент спросил: "Есть ли какая-то причина стремиться к более высоким уровням?"
+
+### Статистика использования приложения за месяц
+- 847 открытий приложения
+- Средняя сессия: 23 секунды
+- Самое частое действие: проверка баланса баллов
+- 12 наград обменено
+
+### Упоминания в социальных сетях
+- 0 органических упоминаний Basecamp Rewards
+- Наш пост с промо получил 3 лайка
+
+## Итог
+Довольствие немного падает. Настроение "нормально" продолжается. Заметный отзыв: люди чувствуют, что программа не соответствует личности Basecamp. Один комментарий зацепил меня: "Я иду в Starbucks за наградами, сюда за хорошим кофе". Это... не хорошо.

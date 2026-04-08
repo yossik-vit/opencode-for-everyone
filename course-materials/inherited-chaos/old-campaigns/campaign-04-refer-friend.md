@@ -1,29 +1,29 @@
-# Campaign: Refer a Friend
+# Кампания: Приведи друга
 
-**Status:** Never launched (got stuck in legal review)
-**Created:** January
+**Статус:** Никогда не запускалась (застряла в юридической проверке)
+**Создана:** Январь
 
-## Concept
-Members refer friends, both get bonus points when friend signs up and makes first purchase.
+## Концепция
+Участники рекомендуют друзей, оба получают бонусные баллы, когда друг регистрируется и делает первую покупку.
 
-## Details
-- Referrer gets 100 bonus points
-- New member gets 50 bonus points after first purchase
-- Unique referral codes for tracking
-- Limit 10 referrals per member per year
+## Детали
+- Рекомендующий получает 100 бонусных баллов
+- Новый участник получает 50 бонусных баллов после первой покупки
+- Уникальные реферальные коды для отслеживания
+- Лимит 10 рекомендаций на участника в год
 
-## Why It Stalled
-- Legal wanted more disclaimer language
-- Couldn't figure out how to track properly in the app
-- Dev team was busy with other priorities
-- Kind of forgot about it
+## Почему застряла
+- Юристы хотели больше оговорок
+- Не смогли разобраться, как правильно отслеживать в приложении
+- Команда разработки была занята другими приоритетами
+- Как-то забыли о ней
 
-## Assessment
-Referral programs can work but they usually just accelerate existing behavior. People who were going to sign up anyway get credited to referrals. Doesn't address why people should WANT to refer us.
+## Оценка
+Программы рекомендаций могут работать, но обычно просто ускоряют существующее поведение. Люди, которые и так собирались зарегистрироваться, засчитываются как рекомендации. Не решает, почему люди должны ХОТЕТЬ рекомендовать нас.
 
-## Notes
-- Worth finishing if we can solve the tracking
-- But shouldn't be a priority
-- Need to give people a REASON to refer, not just a REWARD
-- "Hey, sign up and get points" is weak
-- "Hey, take this quiz to find your coffee personality" is stronger?
+## Заметки
+- Стоит завершить, если решим отслеживание
+- Но не должно быть приоритетом
+- Нужно дать людям ПРИЧИНУ рекомендовать, а не просто НАГРАДУ
+- "Зарегистрируйся и получи баллы" — слабо
+- "Пройди этот квиз и узнай свою кофейную личность" — сильнее?

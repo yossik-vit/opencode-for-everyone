@@ -1,60 +1,60 @@
-# Customer Feedback - February
+# Обратная связь от клиентов — февраль
 
-## Survey Responses (52 responses)
+## Результаты опроса (52 ответа)
 
-### "How satisfied are you with Basecamp Rewards?"
-- Very Satisfied: 10%
-- Satisfied: 31%
-- Neutral: 44%
-- Dissatisfied: 11%
-- Very Dissatisfied: 4%
+### "Как вы довольны программой лояльности Basecamp Rewards?"
+- Очень доволен: 10%
+- Доволен: 31%
+- Нейтрально: 44%
+- Недоволен: 11%
+- Очень недоволен: 4%
 
-### Open-Ended Feedback
+### Открытый обратная связь
 
-**Positive:**
-> "Got my first free drink! That was nice."
+**Положительная:**
+> "Наконец-то получил бесплатный напиток! Было приятно."
 
-> "Easy to use"
+> "Легко использовать"
 
-> "Appreciate that you have this"
+> "Ценно, что у вас это есть"
 
-**Neutral:**
-> "It's okay. Nothing special."
+**Нейтральная:**
+> "Нормально. Ничего особенного."
 
-> "I always forget to scan my app"
+> "Я всегда забываю отсканировать приложение"
 
-> "What's an Explorer? Am I supposed to care?"
+> "Что такое Explorer? Должен ли я беспокоиться?"
 
-> "Fine but forgettable"
+> "Нормально, но забываемое"
 
-> "Like every other rewards program"
+> "Как и любая другая программа наград"
 
-**Negative:**
-> "The points seem to take forever to add up"
+**Отрицательная:**
+> "Похоже, что на накопление баллов уходит вечность"
 
-> "I got a push notification at 6am. Why?"
+> "Я получил push-уведомление в 6 утра. Зачем?"
 
-> "Not sure what makes this different from Starbucks"
+> "Не уверен, что делает это отличным от Starbucks"
 
-> "Too many steps to redeem"
+> "Слишком много шагов для обмена"
 
-### In-Store Comments (from barista reports)
+### Комментарии в магазине (от отчётов бариста)
 
-- Customer said "I wish you'd just give me a punch card like the old days"
-- Regular asked "do you actually track if I come more often?"
-- Someone asked if they could convert points to cash (no)
-- Barista reported: "most people seem confused about what tier they're in"
+- Клиент сказал: "Жаль, что вы просто не дали бы мне карту с штампами, как раньше"
+- Постоянный клиент спросил: "Действительно ли вы отслеживаете, что я прихожу чаще?"
+- Кто-то спросил, можно ли конвертировать баллы в наличные (нет)
+- Бариста сообщил: "Большинство людей, похоже, запутаны, какой у них уровень"
 
-### Valentine's Day Promo Results
-- Ran "double points on Valentine's Day"
-- 23% increase in app scans that day
-- Back to normal the next day
-- No sustained lift
+### Результаты промо Дня святого Валентина
+- Запустили "двойные баллы в День святого Валентина"
+- 23% увеличение сканирований приложения в тот день
+- На следующий день всё вернулось к норме
+- Длительного эффекта не было
 
-### Social Media Mentions
-- 2 Instagram stories mentioning the Valentine's promo
-- 1 tweet: "basecamp coffee has a rewards program? news to me"
-- 0 Facebook engagement on our promo post
+### Упоминания в социальных сетях
+- 2 сторис в Instagram с упоминанием промо Валентина
+- 1 твит: "у basecamp coffee есть программа лояльности? для меня новость"
+- 0 вовлечённости в Facebook на нашем посте с промо
 
-## Summary
-The Valentine's promo got a temporary bump but no lasting impact. Feedback continues to be "neutral at best." People don't dislike us - they just don't remember we exist.
+## Итог
+Промо на День святого Валентина дало временный всплеск, но длительного эффекта не было. Обратная связь продолжала быть "нормально наилучшее". Люди не ненавидят нас — они просто не помнят, что мы существуем.

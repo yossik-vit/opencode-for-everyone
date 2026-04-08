@@ -1,26 +1,26 @@
-# Campaign: Early Bird Bonus
+# Кампания: Бонус ранней пташки
 
-**Status:** Draft, never ran
-**Created:** February
+**Статус:** Черновик, никогда не запускалась
+**Создана:** Февраль
 
-## Concept
-Bonus points for orders placed before 8am to reward morning regulars.
+## Концепция
+Бонусные баллы за заказы до 8 утра для поощрения утренних постоянных клиентов.
 
-## Details
-- 1.5x points on all orders before 8am
-- Daily promotion
-- Target: reward our most loyal time slot
+## Детали
+- 1.5x баллов за все заказы до 8 утра
+- Ежедневная акция
+- Цель: вознаградить наш самый лояльный временной слот
 
-## Why It Never Ran
-- Realized we'd be rewarding people who already come every morning
-- Just giving away margin on behavior that's already happening
-- Couldn't justify the cost
+## Почему не запустилась
+- Поняли, что будем вознаграждать людей, которые и так приходят каждое утро
+- Просто отдавать маржу за поведение, которое уже происходит
+- Не смогли обосновать стоимость
 
-## Assessment
-This is backwards thinking. We'd be paying more for customers who are already loyal. Should be trying to create NEW behaviors, not subsidize existing ones.
+## Оценка
+Это обратное мышление. Мы платили бы больше за клиентов, которые уже лояльны. Нужно создавать НОВЫЕ поведения, а не субсидировать существующие.
 
-## Notes
-- Morning customers aren't the problem
-- The problem is the 83% of members who don't engage at ALL
-- This would make our best customers happy but wouldn't grow anything
-- Killed this idea
+## Заметки
+- Утренние клиенты — не проблема
+- Проблема — 83% участников, которые не вовлечены ВООБЩЕ
+- Это сделало бы наших лучших клиентов счастливыми, но не выросло бы ничего
+- Эта идея убита

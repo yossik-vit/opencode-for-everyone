@@ -1,33 +1,33 @@
-# Campaign: Social Share Bonus
+# Кампания: Бонус за публикацию в соцсетях
 
-**Status:** Ran once, disaster
-**Last Run:** February
+**Статус:** Проведена один раз, катастрофа
+**Последний запуск:** Февраль
 
-## Concept
-Bonus points for sharing Basecamp content on social media.
+## Концепция
+Бонусные баллы за публикацию контента Basecamp в социальных сетях.
 
-## Details
-- Share our post → screenshot → show barista → get 20 bonus points
-- Tried to create viral moments
-- Valentine's Day themed
+## Детали
+- Поделись нашим постом → скриншот → покажи бариста → получи 20 бонусных баллов
+- Попытались создать вирусные моменты
+- Тематика Дня святого Валентина
 
-## Results
-- 12 total redemptions
-- Awkward process (showing phone to barista)
-- Some customers felt embarrassed
-- Staff found it annoying to verify
-- Created 0 organic engagement
+## Результаты
+- 12 обменов всего
+- Неловкий процесс (показывать телефон бариста)
+- Некоторые клиенты чувствовали себя неловко
+- Персонал нашёл раздражающим проверять
+- Создал 0 органического вовлечения
 
-## What Happened
-Nobody wants to spam their friends for 20 points. And the process was clunky. People felt like we were using them for marketing instead of rewarding them for loyalty.
+## Что произошло
+Никто не хочет спамить своих друзей за 20 баллов. И процесс был громоздким. Люди чувствовали, что мы используем их для маркетинга вместо того, чтобы вознаграждать за лояльность.
 
-## Assessment
-Total failure. This is the worst kind of "engagement" - forced and transactional. Real social sharing happens when people genuinely love something and want to share it. You can't buy that with points.
+## Оценка
+Полный провал. Это худший вид "вовлечения" — принудительный и транзакционный. Настоящий обмен в соцсетях происходит, когда люди искренне что-то любят и хотят поделиться. Это нельзя купить баллами.
 
-## Notes
-- Learned: don't pay for fake engagement
-- If people aren't sharing organically, forcing it with points doesn't work
-- Need to create something worth sharing, not pay people to share nothing
-- What WOULD people genuinely want to share about us?
-- "I just found out I'm an Espresso Explorer!" - that's shareable
-- "I earned 20 points at Basecamp today" - nobody cares
+## Заметки
+- Урок: не платите за фальшивое вовлечение
+- Если люди не делятся органически, принуждение баллами не работает
+- Нужно создать что-то стоящее обмена, а не платить людям за то, чтобы они делились ничем
+- Что люди ДЕЙСТВИТЕЛЬНО хотели бы поделиться о нас?
+- "Я только что узнал, что я Espresso Explorer!" — это стоит поделиться
+- "Я заработал 20 баллов в Basecamp сегодня" — никому не интересно

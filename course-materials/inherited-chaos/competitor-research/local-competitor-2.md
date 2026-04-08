@@ -1,61 +1,61 @@
-# Competitor Research: Roast & Co.
+# Исследование конкурента: Roast & Co.
 
-## Overview
-**Type:** Seattle indie chain (5 locations)
-**Positioning:** Craft/artisan, "third wave" coffee
-**Our Overlap:** Downtown and Capitol Hill
+## Обзор
+**Тип:** Независимая сеть в Seattle (5 точек)
+**Позиционирование:** Ручная работа/ремесленная, "третья волна" кофе
+**Наше пересечение:** Downtown и Capitol Hill
 
-## Their Loyalty Program
-**Name:** Don't have one
-**Approach:** "We're too cool for loyalty programs"
+## Их программа лояльности
+**Название:** Нет
+**Подход:** "Мы слишком крутые для программ лояльности"
 
-## What They Do Instead
+## Что они делают вместо этого
 
-### 1. Punch Cards
-- Old school paper punch cards
-- 10 drinks = 1 free
-- Customers seem to love the simplicity
-- Some collect completed cards as "trophies"
+### 1. Карты с штампами
+- Старая школа бумажные карты со штампами
+- 10 напитков = 1 бесплатно
+- Клиенты, похоже, любят простоту
+- Некоторые собирают завершённые карты как "трофеи"
 
-### 2. Barista Knowledge
-- All baristas trained as coffee experts
-- They remember your order
-- Personal recommendations
-- Make you feel like a coffee insider
+### 2. Знания бариста
+- Всех бариста обучают как экспертов по кофе
+- Они помнят ваш заказ
+- Персонализированные рекомендации
+- Делают вас чувствовать себя внутренним человеком в мире кофе
 
-### 3. Limited Releases
-- Special single-origin drops
-- Email list for "first access"
-- Creates FOMO and exclusivity
-- Customers feel like insiders
+### 3. Ограниченные релизы
+- Специальные релизы с одним источником
+- Список для "первого доступа" в email
+- Создаёт FOMO и эксклюзивность
+- Клиенты чувствуют себя внутренними людьми
 
-### 4. Coffee Classes
-- Free monthly tastings
-- "Learn to taste like a roaster"
-- Builds community organically
-- Customers become evangelists
+### 4. Кофейные классы
+- Бесплатные ежемесячные дегустации
+- "Научи меня вкусить как обжарщик"
+- Органически строит общность
+- Клиенты становятся проповедниками
 
-## What We Can Learn
-- You don't NEED an app to build loyalty
-- Knowledge and expertise create belonging
-- Exclusivity can be a feature
-- Sometimes simpler is better
-- In-person connection matters
+## Чему мы можем научиться
+- Вам НЕ нужно приложение для построения лояльности
+- Знания и экспертиза создают принадлежность
+- Эксклюзивность может быть фичой
+- Иногда простое лучше
+- Личное соединение имеет значение
 
-## Their Weaknesses
-- No data on customers
-- Can't scale personalization
-- Miss out on digital engagement
-- No way to reach inactive customers
+## Их недостатки
+- Нет данных о клиентах
+- Не может масштабировать персонализацию
+- Пропускает цифровое вовлечение
+- Нет способа достичь неактивных клиентов
 
-## The Big Question
-Roast & Co. proves you can build fanatical loyalty without a digital program - through expertise, exclusivity, and personal connection.
+## Главный вопрос
+Roast & Co. доказывает, что можно построить фанатичную лояльность без цифровой программы — через экспертизу, эксклюзивность и личное соединение.
 
-But they're limited to 5 locations because they can't scale the human touch.
+Но они ограничены 5 точками, потому что не могут масштабировать человеческий контакт.
 
-Can we get the best of both worlds? Digital scale + authentic personality?
+Можем ли мы получить лучшее из обоих миров? Цифровой масштаб + аутентичная личность?
 
-## Interesting Quote I Overheard
-A customer at Roast & Co. said: "I love that they know I'm an 'Ethiopian natural' person. Makes me feel like they get me."
+## Интересная цитата, которую я услышал
+Клиент в Roast & Co. сказал: "Я люблю, что они знают, что я человек с 'эфиопским натуральным'. Делает меня чувствовать, что они меня понимают".
 
-What if WE helped people discover what kind of coffee person they are?
+А если МЫ поможем людям понять, каким они являются человеком кофе?

@@ -1,64 +1,52 @@
-# Claude Code for Everyone - Course Materials
+# OpenCode for Everyone - Материалы курса
 
-Welcome to **Claude Code for Everyone** (CC4E), a hands-on course teaching Claude Code to non-technical users.
+Добро пожаловать в **OpenCode for Everyone** — практический курс по освоению OpenCode для сотрудников AGIMA.
 
-## Getting Started
+## Как начать
 
-1. Open this folder in Cursor (or VS Code)
-2. Open the terminal (Ctrl+` or View → Terminal)
-3. Type `claude` and press Enter
-4. Type `/start-1-1` to begin!
+1. Открой эту папку в Cursor (или VS Code)
+2. Открой терминал (Ctrl+` или View → Terminal)
+3. Введи `opencode` и нажми Enter
+4. Введи `/start-1-1` чтобы начать!
 
-## Course Structure
+## Структура курса
 
-### Module 1: Claude Code Fundamentals
-- **1.1** Introduction - Welcome and course overview
-- **1.2** File Exploration - Navigate files and set up your workspace
-- **1.3** Working with Files - Extract, synthesize, templates, images, web
-- **1.4** Commands & Navigation - Shortcuts and power user features
-- **1.5** Agents - Parallel processing with multiple Claude instances
-- **1.6** Custom Sub-agents - Create your advisory team
-- **1.7** CLAUDE.md - Persistent project memory
-- **1.8** Power Features - Celebration and Module 2 preview
+### Модуль 1: Основы OpenCode
+- **1.1** Введение — Приветствие и обзор курса
+- **1.2** Исследование файлов — Навигация файлов и настройка рабочего пространства
+- **1.3** Работа с файлами — Извлечение, синтез, шаблоны, изображения, веб
+- **1.4** Команды и навигация — Сокращения и продвинутые функции
+- **1.5** Агенты — Параллельная обработка с несколькими экземплярами
+- **1.6** Кастомные субагенты — Создание своей команды советников
+- **1.7** CLAUDE.md — Постоянная память проекта
+- **1.8** Продвинутые функции — Празднование и превью Модуля 2
 
-### Module 2: Vibe Coding (Coming Soon)
-Build the Coffee Personality Quiz from scratch!
+### Модуль 2: Вайб-кодинг
+Создание Coffee Personality Quiz с нуля!
 
-## The Scenario
+## Сценарий
 
-You're the new manager at **Basecamp Coffee**, a regional coffee chain with a struggling loyalty program. Your job: turn it around in 3 months.
+Ты — новый менеджер в **Basecamp Coffee**, региональной кофейной сети с провальной программой лояльности. Твоя задача: спасти программу за 3 месяца.
 
-Through the course, you'll:
-- Analyze the chaos you inherited
-- Discover what's wrong with the program
-- Find the solution (spoiler: it involves coffee personalities)
-- Build a prototype to save the day
+В течение курса ты:
+- Проанализируешь унаследованный хаос
+- Выявишь проблемы программы
+- Найдёшь решение (спойлер: связано с кофейными личностями)
+- Создашь прототип, который спасёт программу
 
-## Folder Structure
+## Структура папок
 
 ```
-company-context/     → Background on Basecamp Coffee
-inherited-chaos/     → The mess you inherited (files to analyze)
-templates/           → Document templates
-attachments/         → Images and other assets
-organized/           → Files you'll create as you organize
-analysis/            → Analysis outputs you'll generate
-reviews/             → Feedback from sub-agents
+company-context/     → Информация о Basecamp Coffee
+inherited-chaos/     → Хаос, который ты унаследовал (файлы для анализа)
+templates/           → Шаблоны документов
+attachments/         → Изображения и другие материалы
+organized/           → Файлы, которые ты создашь при организации
+analysis/            → Результаты анализа
+reviews/             → Обратная связь от субагентов
 ```
 
-## Reference Files
+## Нужна помощь?
 
-Each lesson has a reference page at ccforeveryone.com with:
-- Deeper explanations
-- Additional resources
-- Troubleshooting guides
-
-## Need Help?
-
-- Ask Claude! That's the whole point.
-- Check the reference files at ccforeveryone.com
-- Reach out to Carl: [X](https://x.com/carlvellotti) / [LinkedIn](https://linkedin.com/in/carlvellotti)
-
-## Created By
-
-Carl Vellotti - [The Full Stack PM](https://fullstackpm.com)
+- Спроси OpenCode! В этом вся суть.
+- Обратись к команде AGIMA

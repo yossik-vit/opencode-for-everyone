@@ -1,29 +1,29 @@
-# Campaign: Enhanced Birthday Rewards
+# Кампания: Улучшенные награды на день рождения
 
-**Status:** Implemented, underperforming
-**Current:** Active
+**Статус:** Реализовано, не дотягивает
+**Сейчас:** Активно
 
-## Concept
-Make birthdays more special - free drink + bonus points during birthday month.
+## Концепция
+Сделать дни рождения более особенными — бесплатный напиток + бонусные баллы в месяц рождения.
 
-## Details
-- Free drink (any size, any type) during birthday month
-- 50 bonus points
-- Personalized email with birthday message
+## Детали
+- Бесплатный напиток (любого размера, любого типа) в месяц рождения
+- 50 бонусных баллов
+- Персонализированное email с поздравлением
 
-## Results
-- 62% redemption rate (decent)
-- But 73% of those were people who were already regular visitors
-- Didn't bring back lapsed members
-- Email open rate on birthday emails: 31% (better than average)
+## Результаты
+- 62% коэффициент обмена (неплохо)
+- Но 73% из них — люди, которые уже были постоянными посетителями
+- Не вернул ушедших участников
+- Открытие email с поздравлениями: 31% (лучше среднего)
 
-## What Happened
-Regular customers like it. But it's not reactivating anyone who stopped coming. The people who care about the birthday reward already cared about Basecamp.
+## Что произошло
+Постоянные клиенты довольны. Но это не реактивирует никого, кто перестал приходить. Люди, которым важна награда на день рождения, уже любили Basecamp.
 
-## Assessment
-Nice to have, but not moving the needle. Birthday rewards are table stakes - everyone has them. Doesn't differentiate us.
+## Оценка
+Приятно иметь, но не двигает показатели. Награды на день рождения — это базовое, у всех есть. Не отличает нас.
 
-## Notes
-- Could we make birthdays MORE special somehow?
-- Personal note from barista? Special drink creation?
-- Problem: this is transactional thinking again
+## Заметки
+- Можем ли мы сделать дни рождения ЕЩЁ БОЛЕЕ особенными?
+- Личная записка от бариста? Создание специального напитка?
+- Проблема: это снова транзакционное мышление

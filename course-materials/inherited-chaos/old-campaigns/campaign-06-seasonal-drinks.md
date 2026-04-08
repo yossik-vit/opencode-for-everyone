@@ -1,30 +1,30 @@
-# Campaign: Seasonal Drink Launch Points
+# Кампания: Баллы за сезонные напитки
 
-**Status:** Ran once, okay results
-**Last Run:** March (Spring menu launch)
+**Статус:** Проведена один раз, нормальные результаты
+**Последний запуск:** Март (запуск весеннего меню)
 
-## Concept
-Bonus points for trying new seasonal drinks to drive trial.
+## Концепция
+Бонусные баллы за пробу новых сезонных напитков для стимулирования проб.
 
-## Details
-- 2x points on seasonal drink purchases
-- First week of seasonal menu only
-- Promoted via email + in-store signage
+## Детали
+- 2x баллов за покупку сезонных напитков
+- Только первая неделя сезонного меню
+- Рекламировалось через email + внутримагазинную вывеску
 
-## Results
-- 31% of members tried at least one seasonal drink (up from typical 22%)
-- But only 12% came back for the same drink again
-- Points bonus cost: ~$800
-- Some nice social media content from excited customers
+## Результаты
+- 31% участников попробовали хотя бы один сезонный напиток (вверх с типичных 22%)
+- Но только 12% вернулись за тем же напитком снова
+- Стоимость бонуса баллов: ~$800
+- Некоторый хороший контент в соцсетях от воодушевлённых клиентов
 
-## What Happened
-Got people to try something new, which is good. But the points weren't the reason - the NEW DRINK was the reason. We probably would have gotten similar trial without the points bonus.
+## Что произошло
+Люди попробовали что-то новое, что хорошо. Но баллы не были причиной — НОВЫЙ НАПИТОК был причиной. Мы, вероятно, получили бы схожий уровень проб без бонуса баллов.
 
-## Assessment
-Seasonal drinks already have built-in excitement. Points didn't add much value. The real opportunity is helping people discover drinks they'll LOVE and come back for, not just try once.
+## Оценка
+Сезонные напитки уже имеют встроенный интерес. Баллы не добавили особой ценности. Реальная возможность — помочь людям найти напитки, которые они ПОЛЮБЯТ и будут возвращаться за ними, а не просто попробовать один раз.
 
-## Notes
-- What if we recommended seasonal drinks based on preferences?
-- "If you like X, you'll love the new Y"
-- Personalization > points
-- Need to know people's preferences first though...
+## Заметки
+- Что если мы рекомендовали сезонные напитки на основе предпочтений?
+- "Если тебе нравится X, ты полюбишь новый Y"
+- Персонализация > баллы
+- Но сначала нужно знать предпочтения людей...

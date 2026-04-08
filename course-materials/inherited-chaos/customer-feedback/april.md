@@ -1,61 +1,64 @@
-# Customer Feedback - April
+# Обратная связь от клиентов — апрель
 
-## Survey Responses (41 responses)
+## Результаты опроса (41 ответ)
 
-### "How satisfied are you with Basecamp Rewards?"
-- Very Satisfied: 7%
-- Satisfied: 27%
-- Neutral: 48%
-- Dissatisfied: 15%
-- Very Dissatisfied: 3%
+### "Как вы довольны программой лояльности Basecamp Rewards?"
+- Очень доволен: 7%
+- Доволен: 27%
+- Нейтрально: 48%
+- Недоволен: 15%
+- Очень недоволен: 3%
 
-### Open-Ended Feedback
+### Открытый обратная связь
 
-**Positive:**
-> "Free coffee is free coffee"
+**Положительная:**
+> "Бесплатный кофе — это бесплатно"
 
-> "Better than nothing I suppose"
+> "Лучше, чем ничего, я полагаю"
 
-**Neutral:**
-> "Exists"
+**Нейтральная:**
+> "Есть"
 
-> "I'm in it but don't really engage with it"
+> "Я в программе, но не особенно вовлечён"
 
-> "Fine but forgettable" (third time someone's used this exact phrase)
+> "Нормально, но забываемое" (в третий раз, когда кто-то использует эту точную фразу)
 
-> "It's whatever"
+> "Ну так себе"
 
-> "I have the app somewhere on my phone"
+> "У меня есть приложение где-то на телефоне"
 
-**Negative:**
-> "This program has no personality. It's just points."
+**Отрицательная:**
+> "У этой программы нет личности. Это просто баллы."
 
-> "I don't feel like a valued customer, I feel like a transaction"
+> "Я не чувствую себя ценным клиентом, я чувствую себя как транзакция"
 
-> "What's the point of points if there's nothing fun about it?"
+> "Зачем нужны баллы, если в этом нет ничего забавного?"
 
-> "Starbucks at least has games. Dutch Bros remembers my name."
+> "По крайней мере Starbucks имеет игры. Dutch Bros помнит моё имя."
 
-> "Generic. Could be any coffee chain."
+> "Заезженное. Могло быть любой кофейной сетью."
 
-### In-Store Comments (from barista reports)
+### Комментарии в магазине (от отчётов бариста)
 
-- Downtown location: "A customer today said 'I wish this felt more like Basecamp and less like every other chain'"
-- Customer suggestion: "What if you helped people find their signature drink?"
-- Barista observation: "People light up when we ask about their coffee preferences but the app doesn't capture any of that"
-- Regular customer: "I've been coming here 2 years but the app treats me like a stranger"
+- Район downtown: "Сегодня клиент сказал: 'Жаль, что это меньше ощущается как Basecamp и больше как любая другая цепь'"
 
-### NPS Score This Month
-- NPS for Basecamp overall: 67 (strong)
-- NPS for Basecamp Rewards: 12 (weak)
+- Предложение клиента: "А что если вы помогете людям найти их фирменный напиток?"
 
-### Competitive Comments
-- 3 people mentioned Starbucks rewards favorably
-- 2 people mentioned Dutch Bros' personal touch
-- 1 person: "At least Peet's gives you a free drink on sign-up"
+- Наблюдение бариста: "Люди светятся, когда мы спрашиваем о их предпочтениях по кофе, но приложение не captures ни одного из этого"
 
-### One Comment That Stuck With Me
-> "Your coffee has personality. Your rewards program doesn't. Fix that and you'd have something."
+- Постоянный клиент: "Я сюда уже 2 года, а приложение относится ко мне как к незнакомцу"
 
-## Summary
-April was rough. The gap between how people feel about Basecamp (positive) and how they feel about Basecamp Rewards (meh) is getting more obvious. People want something that feels like US, not like a generic points program. The phrase "fine but forgettable" has now appeared in 3 different months of feedback. That's our problem in three words.
+### NPS балл за месяц
+- NPS для Basecamp в целом: 67 (сильный)
+- NPS для Basecamp Rewards: 12 (слабый)
+
+### Комментарии конкурентов
+- 3 человека упомянули Starbucks rewards положительно
+- 2 человека упомянули личный подход Dutch Bros
+- 1 человек: "По крайней мере Peet's даёт бесплатный напиток при регистрации"
+
+### Один комментарий, который зацепил меня
+> "Ваш кофе имеет личность. Ваша программа наград — нет. Исправьте это, и у вас будет что-то."
+
+## Итог
+Апрель был сложным. Разрыв между тем, как люди чувствуют себя по поводу Basecamp (положительно) и по поводу Basecamp Rewards (мдэ), становится всё более очевидным. Люди хотят что-то, что ощущается как МЫ, а не как обычная программа баллов. Фраза "нормально, но забываемое" теперь появилась в трёх разных месяцах обратной связи. Это наша проблема тремя словами.

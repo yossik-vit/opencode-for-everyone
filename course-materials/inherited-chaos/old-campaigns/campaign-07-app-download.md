@@ -1,31 +1,31 @@
-# Campaign: App Download Bonus
+# Кампания: Бонус за скачивание приложения
 
-**Status:** Current (always running)
-**Started:** Program launch
+**Статус:** Текущая (всегда работает)
+**Запущена:** Старт программы
 
-## Concept
-Bonus points for downloading and registering in the app.
+## Концепция
+Бонусные баллы за скачивание и регистрацию в приложении.
 
-## Details
-- 25 bonus points on app registration
-- Promoted via in-store signage
-- Baristas encouraged to mention it
+## Детали
+- 25 бонусных баллов при регистрации в приложении
+- Рекламируется через внутримагазинную вывеску
+- Бариста рекомендуют упомянуть
 
-## Results
-- ~400 downloads per month from this campaign
-- But only 31% of downloaders make a second transaction
-- 69% download, get bonus, never engage again
-- Cost-per-engaged-member is high
+## Результаты
+- ~400 скачиваний в месяц от этой кампании
+- Но только 31% скачавших совершают вторую транзакцию
+- 69% скачивают, получают бонус, больше не вовлекаются
+- Стоимость за вовлечённого участника высокая
 
-## What Happened
-We're paying for downloads, not engagement. People sign up for the bonus, then forget about us. The app doesn't give them a reason to come back.
+## Что произошло
+Мы платим за скачивания, а не за вовлечённость. Люди регистрируются за бонус, потом забывают о нас. Приложение не даёт им причины вернуться. Проверка баланса баллов — это не причина открывать приложение.
 
-## Assessment
-This is the core problem with our whole program. We're incentivizing sign-ups, not engagement. The app itself has nothing compelling to return to. Checking your points balance isn't a reason to open an app.
+## Оценка
+Это корневая проблема всей нашей программы. Мы стимулируем регистрации, а не вовлечённость. Само приложение не имеет ничего убедительного для возврата.
 
-## Notes
-- Stop paying for downloads?
-- Or make the app worth opening?
-- What would make someone WANT to open the app?
-- Games? Content? Personalization?
-- Or something simpler - like knowing your coffee personality?
+## Заметки
+- Прекратить платить за скачивания?
+- Или сделать приложение стоящим открытия?
+- Что заставит кого-то ХОТЕТЬ открыть приложение?
+- Игры? Контент? Персонализация?
+- Или что-то проще — например, знание своей кофейной личности?

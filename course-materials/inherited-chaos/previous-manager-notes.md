@@ -1,58 +1,58 @@
-# Notes (Marcus's Handoff... sort of)
+# Заметки (Передача от Маркуса... типа)
 
-Okay so I'm leaving faster than expected (new opportunity came up, sorry!) so here's everything I can think of. Good luck!
+Ладно, я ухожу быстрее, чем ожидалось (появилась новая возможность, извините!), так что вот всё, что могу вспомнить. Удачи!
 
-## Urgent Stuff
-- Dana wants the Q3 report by end of month - USE THE TEMPLATE she sent (I think it's in my email somewhere)
-- The push notification thing is broken again, IT ticket #4521
-- Someone needs to call the vendor about the app redesign quote
-- Birthday rewards aren't sending automatically - manual workaround for now (ask Jennifer)
+## Срочное
+- Дана хочет Q3 отчёт до конца месяца — ИСПОЛЬЗУЙ ШАБЛОН, который она прислала (кажется, у неё в email где-то)
+- Push-уведомления снова сломаны, IT тикет #4521
+- Кто-то должен позвонить вендору по поводу сметы на редизайн приложения
+- Награды на день рождения не отправляются автоматически — временный воркэраунд (спроси Дженнифер)
 
-## Random Thoughts
-- Why don't people care about the tiers?? We spent so much time on the names
-- Maybe we need better rewards? But budget is tight
-- Starbucks has games and challenges, should we do that?
-- The CFO keeps asking about ROI, I never figured out how to calculate it properly
+## Случайные мысли
+- Почему людям не плевать на уровни?? Мы потратили столько времени на названия
+- Может нужны лучшие награды? Но бюджет ограничен
+- Starbucks имеет игры и вызовы, стоит ли нам это делать?
+- CFO продолжает спрашивать про ROI, я так и не разобрался, как правильно считать
 
-## Campaign Ideas I Never Finished
-Check the old-campaigns folder, there's like 10 things in there. Some might be worth salvaging. The double points one worked okay. The social sharing one was a disaster.
+## Идеи кампаний, которые я не закончил
+Проверь папку old-campaigns, там около 10 вещей. Некоторые стоит спасти. С удвоенными баллами было норм. С обменом в соцсетях — катастрофа.
 
-## What I Learned (for what it's worth)
-- People sign up because the barista asks them to
-- They download the app once and forget about it
-- Points don't motivate anyone until they're close to a reward
-- The tier names are dumb (Trailblazer? Explorer? Nobody cares)
+## Что я узнал (если это стоит чего-то)
+- Люди регистрируются, потому что бариста их просит
+- Они скачивают приложение один раз и забывают
+- Баллы никого не мотивируют, пока они не близки к награде
+- Названия уровней тупые (Trailblazer? Explorer? Никому не интересно)
 
-## Weird Idea I Never Had Time For
-What if we helped people find their coffee personality? Like a quiz or something. "Are you a bold espresso person or a smooth latte person?" Could be fun. Never had time to figure it out. Probably dumb anyway.
+## Странная идея, на которую не было времени
+Что если мы помогли бы людям найти их кофейную личность? Типа квиз или что-то. "Ты — смелый эспрессо или мягкий латте?" Может быть прикольно. Не было времени разобраться. Наверное, глупость.
 
-## Data Stuff
-- member-data-summary.csv has the basics
-- For detailed data, talk to analytics team (ask for Priya)
-- The dashboard login is in the shared password doc
+## Про данные
+- member-data-summary.csv содержит основы
+- Для детальных данных, обратись к команде аналитики (спроси Прию)
+- Логин к дашборду в общедом документе с паролями
 
-## Customer Feedback
-There's 4 months of feedback summaries in the customer-feedback folder. TL;DR: people think it's "fine." Not bad, not good. Just... fine. That's probably the problem.
+## Обратная связь от клиентов
+Там 4 месяца суммарной обратной связи в папке customer-feedback. Коротко: люди считают это "нормально". Не плохо, не хорошо. Просто... нормально. Это, наверное, проблема.
 
-## Competitor Notes
-I did some research on Starbucks, Dutch Bros, Peets, and a couple local competitors. In the competitor-research folder. Starbucks is obviously crushing it. Dutch Bros does the relationship thing really well. We're somewhere in the middle doing neither.
+## Заметки о конкурентах
+Я сделал исследование Starbucks, Dutch Bros, Peet's и пары местных конкурентов. В папке competitor-research. Starbucks, очевидно, давит. Dutch Bros делает классно отношения. Мы где-то посередине, не делая ни то, ни другое.
 
-## Passwords & Logins
-- Ask IT for the marketing dashboard access
-- Social accounts are in the shared password doc
-- Email templates are in Mailchimp (login with marketing@basecamp.coffee)
+## Пароли и логины
+- Спроси IT про доступ к маркетинговому дашборду
+- Социальные аккаунты в общем документе с паролями
+- Email шаблоны в Mailchimp (логин marketing@basecamp.coffee)
 
-## People Who Can Help
-- Dana (your boss) - generally supportive, under pressure from above
-- Jennifer (ops) - knows where everything is
-- Priya (analytics) - can pull any data you need
-- Marcus Jr. (yes really) - the barista at downtown location, gives great customer perspective
+## Люди, которые могут помочь
+- Дана (твой босс) — в целом поддерживает, под давлением сверху
+- Дженнифер (операции) — знает, где всё
+- Прия (аналитика) — может вытянуть любые данные
+- Маркус-мл. (да, реально) — бариста в downtown, даёт отличный клиентский перспективу
 
-## Sorry this is messy
-I really did try to organize this but ran out of time. The program isn't in great shape but it's not hopeless. Someone just needs to figure out why people don't care. That's the real question.
+## Извините за бардак
+Я реально пытался организовать это, но время вышло. Программа не в лучшей форме, но не безнадёжна. Кто-то просто должен разобраться, почему людям не плевать. Это настоящий вопрос.
 
-If you figure it out, let me know? I'm genuinely curious.
+Если разберёшься, дай знать? Мне искренне интересно.
 
--Marcus
+— Маркус
 
-P.S. - The coffee personality quiz idea keeps nagging at me. Maybe there's something there. Or maybe I just wanted an excuse to make a Buzzfeed-style quiz. Who knows.
+P.S. — Идея с квизом на кофейную личность не даёт мне покоя. Может, тут что-то есть. Или может я просто хотел повод сделать квиз в стиле Buzzfeed. Кто знает.

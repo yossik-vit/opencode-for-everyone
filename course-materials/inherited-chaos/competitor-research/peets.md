@@ -1,56 +1,56 @@
-# Competitor Research: Peet's Coffee
+# Исследование конкурента: Peet's Coffee
 
-## Program Overview
-**Name:** Peetnik Rewards
-**Approach:** Quality-focused, coffee purist positioning
-**Target:** Serious coffee lovers
+## Обзор программы
+**Название:** Peetnik Rewards
+**Подход:** Ориентирован на качество, позиционирование как любитель кофе
+**Цель:** Серьёзные любители кофе
 
-## How It Works
-- Sign up bonus: Free beverage
-- 1 point per $1 spent
-- 125 points = Free handcrafted beverage
-- Birthday reward
-- Members-only offers
+## Как это работает
+- Бонус при регистрации: Бесплатный напиток
+- 1 балл за каждый потраченный $1
+- 125 баллов = Бесплатный ручной напиток
+- Награда на день рождения
+- Предложения только для участников
 
-## What They Do Well
+## Что у них хорошо
 
-### 1. Quality Positioning
-- Emphasizes coffee expertise
-- "Freshly roasted" messaging
-- Coffee education content
-- Appeals to coffee snobs (respectfully)
+### 1. Позиционирование качества
+- Делает акцент на экспертизе кофе
+- Сообщения "Свеже обжарено"
+- Контент по образованию по кофе
+- Привлекает кофейных снобов (уважительно)
 
-### 2. Clean, Simple Structure
-- Easy to understand
-- No confusing tiers
-- Clear value proposition
-- Free drink on sign-up (immediate gratification)
+### 2. Чистая, простая структура
+- Легко понять
+- Без запутанных уровней
+- Чёткое ценностное предложение
+- Бесплатный напиток при регистрации (немедленное удовлетворение)
 
-### 3. Subscription Integration
-- Coffee subscription + rewards work together
-- At-home customers stay connected to brand
-- Multiple touchpoints
+### 3. Интеграция подписки
+- Подписка на кофе + награды работают вместе
+- Клиенты, пьющие дома, остаются связаны с брендом
+- Множество точек контакта
 
-## Their Weaknesses
-- Not particularly exciting or memorable
-- No gamification
-- Basic personalization
-- Doesn't create community
-- Program feels like an afterthought
+## Их недостатки
+- Не особенно захватывающий или запоминающийся
+- Нет игровизации
+- Базовая персонализация
+- Не создаёт сообщество
+- Программа ощущается как послеthought
 
-## What We Can Learn
-- Free drink on sign-up drives registrations
-- Coffee expertise can be a differentiator
-- Simple is better than confusing
-- But simple without personality is forgettable
+## Чему мы можем научиться
+- Бесплатный напиток при регистрации приводит к регистрации
+- Экспертиза по кофе может быть дифференциатором
+- Простое лучше, чем запутанное
+- Но простое без личности забываемо
 
-## Key Stats
-- Smaller footprint than Starbucks (~200 locations)
-- Strong in Bay Area/West Coast
-- Loyal but niche customer base
-- Subscription program is their real loyalty driver
+## Ключевая статистика
+- Меньший масштаб, чем Starbucks (~200 точек)
+- Сильный в Bay Area/Западное побережье
+- Лояльная, но нишевая клиентская база
+- Программа подписки — их настоящий драйвер лояльности
 
-## The Big Takeaway
-Peet's shows that quality positioning works for a certain customer, but their rewards program isn't driving behavior - it's just "there." They're relying on coffee quality, not program engagement.
+## Главный вывод
+Peet's показывает, что позиционирование качества работает для определённого клиента, но их программа наград не приводит к поведению — она просто "есть". Они полагаются на качество кофе, а не на вовлечённость в программу.
 
-If your program is just "buy 10, get 1 free" with extra steps, you're not creating loyalty - you're creating a coupon system.
+Если ваша программа просто "купи 10, получи 1 бесплатно" с лишними шагами, вы не создаёте лояльность — вы создаёте систему купонов.

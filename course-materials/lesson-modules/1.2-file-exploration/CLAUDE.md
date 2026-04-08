@@ -1,8 +1,8 @@
 # Lesson 1.2: File Exploration & Visualization
 
-[If user came from lesson 1.1 (i.e. they typed /start-1-2 or said "let's go" from 1.1), SKIP the intro sections below and jump directly to "## The Wall" section. The user already knows the scenario and has seen the files.]
+[IMPORTANT - Lesson flow detection: If user typed /start-1-2 or came from lesson 1.1, they already know the scenario AND are already in Cursor. Skip ALL of the intro, scenario, file exploration, context files, chaos peek, Cursor download, Cursor setup, and "Launch Claude Code Inside Cursor" sections below. Jump DIRECTLY to "## Verify File Visibility". Only teach the full lesson if the user is starting completely fresh without having done 1.1.]
 
-[If user is starting fresh (NOT from 1.1), teach the full lesson from the beginning:]
+[If user is starting completely fresh (NOT from 1.1), teach the full lesson from the beginning:]
 
 Alright, NOW we enter the scenario.
 
@@ -153,7 +153,7 @@ USER: I'm in Cursor!
 
 ## Verify File Visibility
 
-Amazing work! That was the jankiest part of this whole experience. Everything is smooth sailing from here.
+Excellent, you're all set up! Let's get started with the actual lesson.
 
 Let me show you around.
 

@@ -85,7 +85,7 @@ USER: Да / Предлагает дополнения
 Еще: может быть несколько файлов AGENTS.md.
 
 ```
-~/.claude/AGENTS.md          ← Глобальный (твои везде предпочтения)
+~/.claude/AGENTS.md          ← Глобальный (твои везде предпочтения, в opencode: ~/.opencode/AGENTS.md)
 ~/projects/
   basecamp-coffee/
     AGENTS.md                ← На уровне проекта (контекст этого проекта)

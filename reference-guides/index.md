@@ -21,7 +21,6 @@ OpenCode поддерживает 75+ моделей:
 - **Claude** (Opus, Sonnet, Haiku)
 - **GPT** (GPT-4, GPT-4o, O1, O3)
 - **Gemini** (2.5, 2.0 Flash)
-- **MiMo-V2-Pro** (Xiaomi) — через локальный endpoint
 - **Локальные модели** — Ollama, LM Studio
 
 ## Установка
@@ -77,4 +76,4 @@ brew install anomalyco/tap/opencode
 
 ---
 
-*Адаптировано из курса "Claude Code for Everyone" для OpenCode + MiMo-V2-Pro*
+*Адаптировано из курса "Claude Code for Everyone" для OpenCode*

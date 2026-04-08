@@ -95,7 +95,7 @@ USER: Да
 
 Подпишись на рассылку: ccforeveryone.com. Новые модули, руководства, сообщество.
 
-STOP: Открыть сайт для подписки?
+STOP: Открыть сайт курса?
 
 USER: Отвечает
 
@@ -126,7 +126,6 @@ USER: Поехали
 - Claude (Opus, Sonnet, Haiku)
 - GPT (GPT-4, GPT-4o, O1, O3)
 - Gemini (2.5, 2.0 Flash)
-- MiMo-V2-Pro (Xiaomi)
 - Локальные модели (Ollama, LM Studio)
 
 ### Агенты

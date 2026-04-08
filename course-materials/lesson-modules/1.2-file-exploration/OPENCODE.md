@@ -81,7 +81,7 @@ USER: Готово
 
 Cursor показывает файлы. Работает с любыми файлами.
 
-Cursor имеет AI, но они отделены от OpenCode. Подписка не нужна.
+Cursor имеет AI, но они отделены от OpenCode. Бесплатные модели доступны.
 
 ## Открой папку курса в Cursor
 
@@ -235,7 +235,6 @@ USER: Да / /start-1-3
 - Claude (Opus, Sonnet, Haiku)
 - GPT (GPT-4, GPT-4o, O1, O3)
 - Gemini (2.5, 2.0 Flash)
-- MiMo-V2-Pro (Xiaomi)
 - Локальные модели (Ollama, LM Studio)
 
 ### Агенты

@@ -191,7 +191,7 @@ USER: [Ответ]
 
 **Чтобы поймать будущие модули:** Подпишись на рассылку: ccforeveryone.com. Руководства, сообщество.
 
-STOP: Открыть сайт для подписки?
+STOP: Открыть сайт курса?
 
 USER: Да / Нет
 
@@ -238,7 +238,6 @@ USER: (выходит или исследует)
 - Claude (Opus, Sonnet, Haiku)
 - GPT (GPT-4, GPT-4o, O1, O3)
 - Gemini (2.5, 2.0 Flash)
-- MiMo-V2-Pro (Xiaomi)
 - Локальные модели (Ollama, LM Studio)
 
 ### Агенты

@@ -183,7 +183,6 @@ USER: Да / /start-1-7
 - Claude (Opus, Sonnet, Haiku)
 - GPT (GPT-4, GPT-4o, O1, O3)
 - Gemini (2.5, 2.0 Flash)
-- MiMo-V2-Pro (Xiaomi)
 - Локальные модели (Ollama, LM Studio)
 
 ### Агенты

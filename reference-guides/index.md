@@ -62,6 +62,13 @@ brew install anomalyco/tap/opencode
 - [2.4: GitHub](module-2/2.4-github.md)
 - [2.5: Публикация](module-2/2.5-go-live.md)
 
+### Модуль 3: Информационная безопасность
+- [3.1: Введение в ИБ](module-3/3.1-infosec-intro.md)
+- [3.2: Чувствительные данные](module-3/3.2-sensitive-data.md)
+- [3.3: Корпоративная безопасность](module-3/3.3-corporate-security.md)
+- [3.4: Социальная инженерия](module-3/3.4-social-engineering.md)
+- [3.5: Риски ИИ](module-3/3.5-ai-risks.md)
+
 ## Ссылки
 
 - **OpenCode**: [opencode.ai](https://opencode.ai)

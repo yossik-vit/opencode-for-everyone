@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-01-07",
+  "lastUpdated": "2026-04-23",
   "levels": [
     {
       "id": "0",
@@ -161,6 +161,58 @@
           "command": "start-2-5",
           "description": "Deploy to Vercel with a real URL",
           "estimatedMinutes": 15
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Информационная безопасность",
+      "description": "Безопасная работа с ИИ-инструментами и защита данных",
+      "modules": [
+        {
+          "id": "3.1",
+          "title": "Введение в ИБ",
+          "slug": "infosec-intro",
+          "path": "lesson-modules/3.1-infosec-intro/CLAUDE.md",
+          "command": "start-3-1",
+          "description": "Три принципа безопасной работы, классификация данных",
+          "estimatedMinutes": 15
+        },
+        {
+          "id": "3.2",
+          "title": "Чувствительные данные",
+          "slug": "sensitive-data",
+          "path": "lesson-modules/3.2-sensitive-data/CLAUDE.md",
+          "command": "start-3-2",
+          "description": "Красный, жёлтый и зелёный списки данных",
+          "estimatedMinutes": 20
+        },
+        {
+          "id": "3.3",
+          "title": "Корпоративная безопасность",
+          "slug": "corporate-security",
+          "path": "lesson-modules/3.3-corporate-security/CLAUDE.md",
+          "command": "start-3-3",
+          "description": "Безопасная работа с файлами и промптами",
+          "estimatedMinutes": 20
+        },
+        {
+          "id": "3.4",
+          "title": "Социальная инженерия",
+          "slug": "social-engineering",
+          "path": "lesson-modules/3.4-social-engineering/CLAUDE.md",
+          "command": "start-3-4",
+          "description": "Как ИИ меняет атаки и как защищаться",
+          "estimatedMinutes": 15
+        },
+        {
+          "id": "3.5",
+          "title": "Риски ИИ",
+          "slug": "ai-risks",
+          "path": "lesson-modules/3.5-ai-risks/CLAUDE.md",
+          "command": "start-3-5",
+          "description": "Шесть типовых рисков и способы минимизации",
+          "estimatedMinutes": 20
         }
       ]
     }

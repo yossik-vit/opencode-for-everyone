@@ -1,147 +1,147 @@
 {
-  "version": "1.0.0",
-  "lastUpdated": "2026-04-23",
+  "version": "2.0.0",
+  "lastUpdated": "2026-04-24",
   "levels": [
     {
       "id": "0",
-      "name": "Getting Started",
-      "description": "Install Claude Code and download course materials",
+      "name": "Быстрый старт",
+      "description": "Подключение AI-агента в VS Code через Gateway AGIMA и скачивание материалов",
       "modules": [
         {
           "id": "0.0",
-          "title": "Intro to Claude Code",
+          "title": "Введение в AI-агента",
           "slug": "introduction",
           "command": null,
-          "description": "What Claude Code is and who this course is for",
+          "description": "Что такое AI-агент в IDE и кому нужен курс",
           "estimatedMinutes": 5
         },
         {
           "id": "0.1",
-          "title": "Installation",
+          "title": "Установка и аутентификация",
           "slug": "installation",
           "command": null,
-          "description": "Get Claude Code installed and authenticated",
+          "description": "Поставить Claude Code в VS Code и прописать Gateway AGIMA",
           "estimatedMinutes": 15
         },
         {
           "id": "0.2",
-          "title": "Download & Start",
+          "title": "Скачивание и первый урок",
           "slug": "start-and-clone",
           "command": null,
-          "description": "Get course materials and launch your first lesson",
+          "description": "Клонировать материалы курса и запустить первый урок",
           "estimatedMinutes": 5
         }
       ]
     },
     {
       "id": "1",
-      "name": "Fundamentals",
-      "description": "Core Claude Code capabilities",
+      "name": "Основы",
+      "description": "Базовые возможности AI-агента в IDE",
       "modules": [
         {
           "id": "1.1",
-          "title": "Course Introduction",
+          "title": "Введение в курс",
           "slug": "course-intro",
           "path": "lesson-modules/1.1-introduction/CLAUDE.md",
           "command": "start-1-1",
-          "description": "Course approach and community",
+          "description": "Подход курса и сообщество",
           "estimatedMinutes": 5
         },
         {
           "id": "1.2",
-          "title": "File Exploration & Visual Workspace",
+          "title": "Исследование файлов и визуальное рабочее пространство",
           "slug": "visual-workspace",
           "path": "lesson-modules/1.2-file-exploration/CLAUDE.md",
           "command": "start-1-2",
-          "description": "Set up Cursor and the dual-pane workflow",
+          "description": "Настроить VS Code и двухпанельный рабочий процесс",
           "estimatedMinutes": 15
         },
         {
           "id": "1.3",
-          "title": "Working with Files",
+          "title": "Работа с файлами",
           "slug": "working-with-files",
           "path": "lesson-modules/1.3-working-with-files/CLAUDE.md",
           "command": "start-1-3",
-          "description": "Master the @ symbol and file operation patterns",
+          "description": "Символ @, паттерны работы с файлами",
           "estimatedMinutes": 25
         },
         {
           "id": "1.4",
-          "title": "Commands & Navigation",
+          "title": "Команды и навигация",
           "slug": "commands-navigation",
           "path": "lesson-modules/1.4-commands-navigation/CLAUDE.md",
           "command": "start-1-4",
-          "description": "Slash commands, shortcuts, and power user features",
+          "description": "Слэш-команды, горячие клавиши, приёмы опытных пользователей",
           "estimatedMinutes": 20
         },
         {
           "id": "1.5",
-          "title": "Agents",
+          "title": "Агенты",
           "slug": "agents",
           "path": "lesson-modules/1.5-agents/CLAUDE.md",
           "command": "start-1-5",
-          "description": "Parallel processing with multiple Claude instances",
+          "description": "Параллельный запуск нескольких AI-агентов",
           "estimatedMinutes": 20
         },
         {
           "id": "1.6",
-          "title": "Custom Sub-agents",
+          "title": "Пользовательские суб-агенты",
           "slug": "custom-subagents",
           "path": "lesson-modules/1.6-custom-sub-agents/CLAUDE.md",
           "command": "start-1-6",
-          "description": "Create permanent specialized advisors",
+          "description": "Создать постоянных специализированных консультантов",
           "estimatedMinutes": 15
         },
         {
           "id": "1.7",
-          "title": "Project Memory (CLAUDE.md)",
+          "title": "Память проекта (AGENTS.md)",
           "slug": "project-memory",
           "path": "lesson-modules/1.7-claude-md/CLAUDE.md",
           "command": "start-1-7",
-          "description": "Persistent context that survives sessions",
+          "description": "Постоянный контекст, переживающий сессии",
           "estimatedMinutes": 15
         },
         {
           "id": "1.8",
-          "title": "What's Next",
+          "title": "Что дальше",
           "slug": "whats-next",
           "path": "lesson-modules/1.8-power-features/CLAUDE.md",
           "command": "start-1-8",
-          "description": "Preview of advanced features and Module 2",
+          "description": "Обзор продвинутых возможностей и переход к Модулю 2",
           "estimatedMinutes": 10
         }
       ]
     },
     {
       "id": "2",
-      "name": "Vibe Coding",
-      "description": "Build a real web app with Claude Code",
+      "name": "Вайб-кодинг",
+      "description": "Собрать реальное web-приложение с AI-агентом",
       "modules": [
         {
           "id": "2.1",
-          "title": "Setup",
+          "title": "Настройка",
           "slug": "setup",
           "path": "lesson-modules/2.1-setup/CLAUDE.md",
           "command": "start-2-1",
-          "description": "The vibecoding mindset and project folder setup",
+          "description": "Мышление вайб-кодинга и подготовка папки проекта",
           "estimatedMinutes": 10
         },
         {
           "id": "2.2",
-          "title": "Plan",
+          "title": "Планирование",
           "slug": "plan",
           "path": "lesson-modules/2.2-plan/CLAUDE.md",
           "command": "start-2-2",
-          "description": "Interview process to define clear requirements",
+          "description": "Собеседование-интервью, чтобы сформулировать требования",
           "estimatedMinutes": 25
         },
         {
           "id": "2.3",
-          "title": "Build & Iterate",
+          "title": "Сборка и итерации",
           "slug": "build-iterate",
           "path": "lesson-modules/2.3-build-iterate/CLAUDE.md",
           "command": "start-2-3",
-          "description": "Scaffold, build, and refine with screenshots",
+          "description": "Скаффолд, сборка, доведение по скриншотам",
           "estimatedMinutes": 40
         },
         {
@@ -150,16 +150,16 @@
           "slug": "github",
           "path": "lesson-modules/2.4-github/CLAUDE.md",
           "command": "start-2-4",
-          "description": "Version control and backup",
+          "description": "Версионность и бэкап",
           "estimatedMinutes": 15
         },
         {
           "id": "2.5",
-          "title": "Go Live",
+          "title": "Публикация",
           "slug": "go-live",
           "path": "lesson-modules/2.5-go-live/CLAUDE.md",
           "command": "start-2-5",
-          "description": "Deploy to Vercel with a real URL",
+          "description": "Выкатить на Vercel с реальной ссылкой",
           "estimatedMinutes": 15
         }
       ]

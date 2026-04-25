@@ -1,10 +1,10 @@
-# OpenCode для всех - Справочник
+# Claude Code для всех - Справочник
 
-Адаптированный справочник курса "Claude Code for Everyone" для **OpenCode**.
+Адаптированный справочник курса "Claude Code for Everyone" для **Claude Code**.
 
-## Что такое OpenCode?
+## Что такое Claude Code?
 
-[OpenCode](https://opencode.ai) — AI-агент для разработки. 139K+ звёзд на GitHub.
+[Claude Code](https://claude.ai/code) — AI-агент для разработки. 139K+ звёзд на GitHub.
 
 ### Ключевые особенности:
 - **100% open source** — MIT лицензия
@@ -17,7 +17,7 @@
 
 ## Модели
 
-OpenCode поддерживает 75+ моделей:
+Claude Code поддерживает 75+ моделей:
 - **Claude** (Opus, Sonnet, Haiku)
 - **GPT** (GPT-4, GPT-4o, O1, O3)
 - **Gemini** (2.5, 2.0 Flash)
@@ -27,21 +27,21 @@ OpenCode поддерживает 75+ моделей:
 
 ### Терминал
 ```bash
-curl -fsSL https://opencode.ai/install | bash
+curl -fsSL https://claude.ai/code/install | bash
 ```
 
 ### Десктоп
-Скачайте с [opencode.ai/download](https://opencode.ai/download)
+Скачайте с [claude.ai/code](https://claude.ai/code)
 
 ### Пакетные менеджеры
 ```bash
-brew install anomalyco/tap/opencode
+brew install anthropics/tap/claude-code
 ```
 
 ## Структура справочника
 
 ### Модуль 0: Начало работы
-- [0.0: Введение в OpenCode](module-0/0.0-introduction.md)
+- [0.0: Введение в Claude Code](module-0/0.0-introduction.md)
 - [0.1: Установка](module-0/0.1-installation.md)
 - [0.2: Скачивание и старт](module-0/0.2-download-start.md)
 
@@ -71,16 +71,16 @@ brew install anomalyco/tap/opencode
 
 ## Ссылки
 
-- **OpenCode**: [opencode.ai](https://opencode.ai)
-- **Документация**: [opencode.ai/docs](https://opencode.ai/docs)
-- **GitHub**: [github.com/anomalyco/opencode](https://github.com/anomalyco/opencode)
-- **Discord**: [discord.gg/opencode](https://discord.gg/opencode)
+- **Claude Code**: [claude.ai/code](https://claude.ai/code)
+- **Документация**: [claude.ai/code/docs](https://claude.ai/code/docs)
+- **GitHub**: [github.com/anthropics/claude-code](https://github.com/anthropics/claude-code)
+- **Discord**: [discord.gg/anthropic](https://discord.gg/anthropic)
 
 ## Авторы
 
 - **Оригинальный курс**: Carl Vellotti
-- **Адаптация для OpenCode**: [Yossik Vit](https://github.com/yossik-vit)
+- **Адаптация для Claude Code**: [Yossik Vit](https://github.com/yossik-vit)
 
 ---
 
-*Адаптировано из курса "Claude Code for Everyone" для OpenCode*
+*Адаптировано из курса "Claude Code for Everyone" для Claude Code*

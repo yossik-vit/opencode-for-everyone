@@ -19,6 +19,7 @@
           "id": "0.1",
           "title": "Установка и аутентификация",
           "slug": "installation",
+          "path": "lesson-modules/0.1-installation/CLAUDE.md",
           "command": null,
           "description": "Поставить Claude Code в VS Code и прописать Gateway AGIMA",
           "estimatedMinutes": 15

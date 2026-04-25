@@ -10,40 +10,13 @@
 
 ## Что нужно, чтобы начать
 
-- **VS Code** последней версии.
-- **Расширение Claude Code** (Anthropic) — добавляет AI-агента прямо в боковую панель IDE.
+- **VS Code** последней версии с расширением **Claude Code** (Anthropic).
 - **Доступ к LLM Gateway AGIMA** — персональный токен выдают в `#ai-platform` или у AI-чемпиона команды.
 - **Git** — чтобы клонировать материалы курса.
 
-### Шаг 1. Поставь расширение Claude Code
+Всё это разобрано в модуле **0.1 Установка и аутентификация** — пройди его перед началом курса.
 
-В VS Code открой маркетплейс расширений и найди **Claude Code** от Anthropic. Или из терминала:
-
-```bash
-code --install-extension anthropic.claude-code
-```
-
-После установки в левой панели появится иконка AI-агента.
-
-### Шаг 2. Пропиши адрес Gateway и свой токен
-
-Открой палитру команд — `Cmd/Ctrl+Shift+P` — и набери «Preferences: Open User Settings (JSON)». Добавь блок:
-
-```json
-{
-  "claudeCode.preferredLocation": "panel",
-  "claudeCode.environmentVariables": [
-    { "name": "ANTHROPIC_BASE_URL",   "value": "https://llm-gateway.agima.tech" },
-    { "name": "ANTHROPIC_AUTH_TOKEN", "value": "YOUR_PERSONAL_TOKEN" }
-  ]
-}
-```
-
-Замени `YOUR_PERSONAL_TOKEN` на выданный тебе токен. Модель Gateway подбирает сам — указывать её вручную не нужно.
-
-Сохрани файл — настройки применятся сразу, перезапускать VS Code не нужно.
-
-### Шаг 3. Клонируй материалы курса
+### Шаг 1. Клонируй материалы курса
 
 ```bash
 git clone https://github.com/yossik-vit/opencode-for-everyone.git ai-trainer
@@ -51,7 +24,7 @@ cd ai-trainer
 code .
 ```
 
-### Шаг 4. Запусти агента и начни урок
+### Шаг 2. Запусти агента и начни урок
 
 Открой панель AI-агента в VS Code (иконка слева) и напиши:
 
